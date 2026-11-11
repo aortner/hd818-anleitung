@@ -1,0 +1,736 @@
+---
+title: HD818 Automatisches Lenksystem – Benutzerhandbuch
+lang: de
+---
+
+![](../bilder/image1.png)
+
+# I. Haftungsausschluss
+
+## 1. Haftungsausschluss
+
+Dieses Dokument enthält Informationen zu den Produkten der Heilongjiang Huida Technology Co., Ltd. Es überträgt weder ausdrücklich noch stillschweigend, durch Rechtsverwirkung oder auf andere Weise Patente, Marken, Urheberrechte, Eigentumsrechte oder sonstige Rechte oder Lizenzen dieses Unternehmens oder Dritter.
+
+Mit Ausnahme der in den Verkaufsbedingungen genannten Pflichten übernimmt Huida keine weitere Haftung. Das Unternehmen gibt keine ausdrücklichen oder stillschweigenden Garantien zum Verkauf oder zur Nutzung seiner Produkte, einschließlich der Eignung für einen bestimmten Zweck, der Marktgängigkeit oder der Nichtverletzung von Patenten, Urheberrechten oder anderen Schutzrechten. Produktspezifikationen und -beschreibungen können jederzeit ohne Vorankündigung geändert werden.
+
+Alle Rechte vorbehalten ©2019–2025, Heilongjiang Huida Technology Co., Ltd.
+
+## 2. Technik und Service
+
+Wenn Sie die benötigten Informationen in diesem Handbuch nicht finden, wenden Sie sich an den Techniker, der das System eingebaut hat.
+
+Huida-Kundendienst (China): 400-888-0787.
+
+Die gezeigten Bildschirme stammen aus einer Testversion. Maßgeblich sind die Funktionen, die tatsächlich auf Ihrem Gerät angezeigt werden.
+
+# II. Hinweise zur Produktverwendung
+
+## 1. Hinweise zur Produktverwendung
+
+- Lesen Sie vor der Verwendung alle mitgelieferten Unterlagen sorgfältig durch, um Bedienung und Vorsichtsmaßnahmen zu verstehen.
+- Zerlegen Sie das Gerät nicht eigenmächtig, um Sicherheitsrisiken zu vermeiden. Wenden Sie sich bei Bedarf an Fachpersonal. Vor jeder Demontage ist die Stromversorgung abzuschalten; das Gerät darf niemals unter Spannung zerlegt werden.
+- Schließen Sie das Gerät nur genau nach den Vorgaben dieses Handbuchs an. Falsche Anschlüsse können Geräteschäden und Sicherheitsrisiken verursachen.
+- Achten Sie auf die Anforderungen an die Spannungsversorgung: Die Versorgungsspannung muss zwischen 9 und 35 V liegen.
+- Prüfen Sie alle Kabelbäume. Beschädigte Kabelbäume sind rechtzeitig zu ersetzen, um Funktionsstörungen und Sicherheitsrisiken zu vermeiden.
+- Öffnen Sie die Gehäuse der Komponenten nicht selbst; andernfalls entfällt der Anspruch auf Reparatur.
+- Das Produkt hat keine aktive Hinderniserkennung. Während das automatische Lenksystem arbeitet, muss daher immer eine Person anwesend sein und die Umgebung überwachen.
+- Das automatische Lenksystem steuert nicht die Fahrgeschwindigkeit. Die Bedienperson muss die Geschwindigkeit selbst in einem sicheren Bereich halten.
+- Bei Tests und Kalibrierung übernimmt das System die Lenkung. Lenkrad, Räder oder andere Fahrzeugteile können sich dabei unerwartet bewegen. Stellen Sie beim Starten des Fahrzeugs und beim Aktivieren des Systems sicher, dass sich niemand im Gefahrenbereich befindet.
+- Das automatische Lenken darf auf öffentlichen Straßen und an öffentlichen Orten nicht aktiviert werden.
+- Prüfen Sie vor jeder Verwendung, ob Komponenten beschädigt sind oder Auffälligkeiten zeigen. Das Produkt darf nur verwendet werden, wenn alle Teile in ordnungsgemäßem Zustand sind. Mängel sind umgehend zu beheben oder dem Kundendienst zu melden.
+- Für Unfälle durch vorschriftswidrige Bedienung während des automatischen Lenkens haftet die Heilongjiang Huida Technology Co., Ltd. nicht.
+
+## 2. Sicherheitshinweise
+
+| | |
+|:--:|----|
+| ![](../bilder/image4.jpeg) | Bei aktivem automatischem Lenken darf der Fahrer die Kabine keinesfalls verlassen. |
+| ![](../bilder/image5.jpeg) | Das automatische Lenksystem darf nicht außerhalb der Arbeitszeit oder außerhalb des Arbeitsbereichs (Feld) verwendet werden. |
+| ![](../bilder/image6.jpeg) | Verwenden Sie das Gerät nur gemäß dieser Anleitung; eigenmächtiges Ändern von Softwareparametern ist untersagt. |
+| ![](../bilder/image7.jpeg) | Wird das Gerät längere Zeit nicht benutzt, trennen Sie die Stromversorgung, damit die Batterie nicht entladen wird. |
+| ![](../bilder/image8.jpeg) | Schützen Sie die Geräte in der Kabine vor Wasser, insbesondere beim Reinigen des Fahrzeugs. |
+| ![](../bilder/image9.jpeg) | Das System steuert nicht die Geschwindigkeit; die Bedienperson muss die Geschwindigkeit selbst anpassen. |
+| ![](../bilder/image10.jpeg) | Unbefugtes Zerlegen des Geräts ist verboten; andernfalls entfällt die Garantie. |
+
+# III. Produktbeschreibung
+
+## 1. Produktübersicht
+
+Das automatische Lenksystem ist ein Kernsystem für intelligente Landtechnik, das von **Huida Technology** auf Basis eigener Kerntechnologien entwickelt und hergestellt wird.
+
+Das HD818 ist ein automatisches Lenksystem mit Navigation. Ein Lenkmotor mit hohem Drehmoment dreht das Lenkrad. Es eignet sich für Traktoren, Pflanzmaschinen, Pflanzenschutzspritzen, Raupentraktoren und weitere Landmaschinen.
+
+Das System hat sich in der Praxis bewährt und bringt alle nötigen Anbauteile mit, sodass es zu allen Landmaschinen mit Lenkrad passt. Bei der Entwicklung wurden die Besonderheiten der landwirtschaftlichen Arbeit konsequent berücksichtigt.
+
+- Höhere Arbeitsgenauigkeit und damit bessere Qualität der Arbeit.
+- Statt „wenig Überlappung, keine Lücken“ von Hand: automatisch „keine Überlappung, präzise Arbeit“ – deutlich effizienter.
+- Längere Einsatzzeiten: Die Maschine kann weiterarbeiten, während der Fahrer entlastet ist, und auch nachts arbeiten.
+- Einfache Bedienung entlastet den Fahrer und senkt die Anforderungen an das Bedienpersonal.
+
+## 2. Hauptkomponenten
+
+| Komponente | Abbildung |
+|:--:|----|
+| GNSS-Antenne | ![](../bilder/image11.png) |
+| Terminal (Display) | ![](../bilder/image12.png) |
+| Elektrischer Lenkmotor | ![](../bilder/image13.png) |
+| Gyroskop (Lenkwinkelsensor) | ![](../bilder/image14.jpeg) |
+
+# IV. Bedienung
+
+## 1. Terminal
+
+So ist die Oberfläche aufgebaut:
+
+![](../bilder/image15.png)
+
+## 2. Ein-/Ausschalten
+
+![](../bilder/image16.png)
+
+Halten Sie die Ein-/Aus-Taste am Terminal 3 Sekunden gedrückt, um das Navigationssystem einzuschalten.
+
+## 3. Anmeldung
+
+So melden Sie das Terminal auf Ihren Namen an:
+
+1. Unter [www.huidaag.com/login](https://www.huidaag.com/login?redirect=/farm) ein Konto anlegen.
+2. Am Handy die App **HD Ag** installieren und dort einloggen.
+3. Am Terminal auf die **Anmeldekarte** tippen und den QR-Code mit der App scannen. Danach läuft das Terminal auf Ihren Namen.
+
+Das System verwaltet Bediener- und Produktionsdaten über persönliche Benutzerkonten und stellt Daten über die Plattform bereit.
+
+Ohne Anmeldung sind alle Karten auf dem Hauptbildschirm grau. Tippen Sie auf die **Anmeldekarte** oben links auf dem Hauptbildschirm.
+
+![](../bilder/image17.png)
+
+Es gibt zwei Anmeldearten:
+
+**Anmeldung per QR-Code** – QR-Code mit der **HD-Ag-App** scannen; für **persönliche bzw. reguläre Mitglieder**.
+
+![](../bilder/image18.png)
+
+**Anmeldung per Autorisierungscode** – den Code eingeben, den die Organisation auf der Plattform ausgegeben hat; für **temporäre Mitglieder**.
+
+![](../bilder/image19.png)
+
+## 4. Karten auf dem Hauptbildschirm
+
+Auf dem Hauptbildschirm stehen Karten für **Fahrzeug**, **Anbaugerät**, **Aufgabe**, **Feld** und **Betriebsmittel**. So sehen Sie auf einen Blick, wie alles eingestellt ist und welche Arbeit ansteht.
+
+![](../bilder/image20.png)
+
+1. **Fahrzeugkarte:** Zeigt das aktuell gewählte Fahrzeug. Antippen öffnet die **Fahrzeugliste**. Ist kein Fahrzeug eingerichtet, erscheint ein ![](../bilder/image21.png)-Hinweis. Dann lässt sich der **Arbeitsbildschirm** nicht öffnen, weil ein Fahrzeug nötig ist.
+
+   ![](../bilder/image22.png)
+
+2. **Anbaugerätekarte:** Zeigt das aktuell gewählte Anbaugerät. Antippen öffnet die **Anbaugeräteliste**. Ist kein Anbaugerät eingerichtet oder passt der Gerätetyp nicht zur Aufgabe, erscheint ein Hinweis und der **Arbeitsbildschirm** lässt sich nicht öffnen.
+
+   ![](../bilder/image23.png)
+
+3. **Aufgabenkarte:** Zeigt eine Zusammenfassung der laufenden Aufgabe. Antippen öffnet die **Aufgabenliste**. Ohne Aufgabe lässt sich der **Arbeitsbildschirm** nicht öffnen.
+
+4. **Feldkarte:** Zeigt das Feld der aktuellen Aufgabe, links mit Satellitenbild. Antippen öffnet die **Feldliste**. Beim Anlegen einer Aufgabe in **Vectoris Pro** muss ihr ein Feld zugewiesen werden.
+
+5. **Betriebsmittelkarte:** Zeigt die Betriebsmittel (Saatgut, Dünger, Spritzmittel …) zum aktuellen Anbaugerät. Die Angabe ist freiwillig; Antippen öffnet die **Betriebsmittelliste**.
+
+6. **Symbol Versionsverwaltung:** Öffnet die Versionsverwaltung. Dort sehen Sie die Versionen aller angeschlossenen Geräte und wählen die Art des Updates.
+
+7. **Symbol Datenübertragung:** Öffnet den Datenmanager für den Datenaustausch mit anderen Terminals oder externen Speichern (z. B. USB-Stick).
+
+8. **Symbol Arbeitsbildschirm:** Wenn alles richtig eingerichtet ist, öffnet ein Tippen auf **Arbeitsbildschirm** die Arbeitsansicht.
+
+## 5. Fahrzeugliste
+
+![](../bilder/image22.png)
+
+Tippen Sie auf die Fahrzeugkarte, um die Fahrzeugauswahl zu öffnen.
+
+![](../bilder/image24.png)
+
+1. Fahrzeuge über Stichwörter suchen.
+2. Dieses Symbol kennzeichnet das **derzeit aktive Fahrzeug**.
+3. Fahrzeug auswählen: Eintrag in der Liste antippen.
+4. Zusammenfassung der **Fahrzeugdaten**; nach unten scrollen für mehr Details.
+5. Ausgewähltes Fahrzeug verwalten: anlegen, löschen, bearbeiten, aktivieren oder kalibrieren.
+
+### 5.1 Neues Fahrzeug anlegen
+
+![](../bilder/image25.png)
+
+Tippen Sie auf ![](../bilder/image26.png), um ein neues Fahrzeug anzulegen.
+
+#### 5.1.1 Fahrzeugdaten
+
+![](../bilder/image27.png)
+
+| Nr. | Feld | Beschreibung |
+|:--:|----|----|
+| 1 | Name | Name des Fahrzeugs (Pflichtfeld) |
+| 2 | Marke | Marke des Fahrzeugs |
+| 3 | Modell | Modell des Fahrzeugs |
+| 4 | Typ | Fahrzeugtyp: Radtraktor / Kettentraktor / Knicklenker / Reispflanzmaschine / Erntemaschine / selbstfahrende Spritze |
+| 5 | → | Weiter zu **Maße** |
+
+#### 5.1.2 Maße
+
+![](../bilder/image28.png)
+
+| Nr. | Feld | Beschreibung |
+|:--:|----|----|
+| 1 | Radstand | Abstand zwischen Vorder- und Hinterachsmitte, in m (Pflichtfeld) |
+| 2 | Antenne – Boden | Höhe der Antennenoberkante über dem Boden, in m (Pflichtfeld) |
+| 3 | Antenne – Hinterachse | Waagrechter Abstand der Antenne zur Hinterachse, in m (Pflichtfeld) |
+| 4 | Antenne – Mittellinie | Seitlicher Abstand der Antenne zur Fahrzeugmitte, in m |
+| 5 | Hinterachse – Arbeitspunkt | Abstand Hinterachse bis Dreipunkt-Kupplung, in m |
+| 6 | Max. Fahrzeugbreite | Abstand Hinterachse bis Zugpunkt, in m |
+| 7 | Arbeitsbreite | Abstand zwischen äußerstem linken und rechten Arbeitspunkt des Anbaugeräts, in m (Pflichtfeld) |
+| 8 | ![](../bilder/image30.svg) | Zurück zu **Fahrzeugdaten** |
+| 9 | ![](../bilder/image32.svg) | Weiter zu **Lenkeinstellungen** |
+
+#### 5.1.3 Lenkeinstellungen
+
+![](../bilder/image33.png)
+
+| Nr. | Feld | Beschreibung |
+|:--:|----|----|
+| 1 | Winkelsensor | Einbaulage des Winkelsensors: … / Etikett oben / Etikett unten |
+| 2 | Lenkeinheit | Art der Lenkung: Motor / Hydraulikventil / Steer Ready CAN |
+| 3 | Empfindlichkeit Linieneinfahrt | Wie schnell das Fahrzeug auf die Linie einfährt |
+| 4 | Seitliche Empfindlichkeit | Zeitpunkt der Lenkkorrekturen |
+| 5 | Richtungsempfindlichkeit | Ausschlag der Lenkradbewegung |
+| 6 | Geländeausgleich | Wie stark das System bei Gelände- bzw. Hangänderungen ausgleicht |
+| 7 | Lenkverstärkung | Frequenz der Lenkradbewegungen |
+| 8 | ![](../bilder/image30.svg) | Zurück zu **Maße** |
+| 9 | √ | Fahrzeug aktivieren und Kalibrierung starten |
+| 10 | Speichern | Aktuelle Einstellungen speichern |
+
+> ![Hinweis](../bilder/image34.png)
+>
+> Sie können die Kalibrierung vorerst überspringen und das Fahrzeug trotzdem fertig anlegen. Ein nicht kalibriertes Fahrzeug lässt Vectoris Pro aber nicht für den Arbeitsbildschirm aktivieren.
+>
+> Wenn Sie das Fahrzeug später in der Liste auswählen, werden Sie erneut nach der Kalibrierung gefragt. Aktiviert wird es erst nach abgeschlossener Kalibrierung.
+
+## 6. Anbaugeräteliste
+
+![](../bilder/image23.png)
+
+Tippen Sie auf die Anbaugerätekarte, um die Anbaugeräteliste zu öffnen.
+
+![](../bilder/image35.png)
+
+1. Anbaugeräte über Stichwörter suchen.
+2. Dieses Symbol kennzeichnet das **derzeit aktive Anbaugerät**.
+3. Anbaugerät auswählen: Eintrag in der Liste antippen.
+4. Zusammenfassung der **Anbaugerätedaten**; nach unten scrollen für mehr Details.
+5. Ausgewähltes Anbaugerät verwalten: anlegen, löschen, bearbeiten oder aktivieren.
+
+### 6.1 Neues Anbaugerät anlegen
+
+![](../bilder/image36.png)
+
+Tippen Sie auf ![](../bilder/image26.png), um Gerätedaten und Maße einzugeben.
+
+#### 6.1.1 Anbaugerätedaten
+
+![](../bilder/image37.png)
+
+| Nr. | Feld | Beschreibung |
+|:--:|----|----|
+| 1 | Name | Name des Anbaugeräts |
+| 2 | Marke | Marke des Anbaugeräts |
+| 3 | Modell | Modell des Anbaugeräts |
+| 4 | Typ | Gerätetyp: Bodenbearbeitung / Aussaat / Hacken / Pflanzenschutz / Düngung / Ernte / Gemüsepflanzung / Bewässerung / Transport / Planierschild / Sonstiges |
+| 5 | → | Weiter zu **Maße** |
+
+#### 6.1.2 Maße
+
+![](../bilder/image38.png)
+
+Wählen Sie die passende **Anbauart** und geben Sie die gemessenen Werte ein: **Arbeitsbreite**, **Überlappung / Lücke**, **Versatz**, **Gerätebreite** und **Abstand Kupplungspunkt – Arbeitspunkt**.
+
+| Nr. | Feld | Beschreibung |
+|:--:|----|----|
+| 1 | Anbauart | Gezogen / angebaut |
+| 2 | Skizze | Zeigt, wo die Maße genommen werden |
+| 3 | Gerätemaße | A Arbeitsbreite, B Überlappung / Lücke, C Gerätebreite, D Geräteversatz, E Abstand Kupplungspunkt – Arbeitspunkt. Einheit nach gewähltem Maßsystem (Standard m). |
+| 4 | ← | Zurück zu **Anbaugerätedaten** |
+| 5 | → | Weiter zu **Wendeeinstellungen** |
+
+##### 6.1.2.1 Anbauart
+
+Wählen Sie, wie das Gerät mit dem Fahrzeug verbunden ist: **gezogen / angebaut**.
+
+![](../bilder/image39.png)
+
+##### 6.1.2.2 Arbeitsbreite
+
+Messen Sie vor dem Einsatz die tatsächliche Arbeitsbreite des Geräts wie im Bild gezeigt: den Abstand zwischen dem äußersten linken und rechten Arbeitspunkt. Messen Sie mehrmals und nehmen Sie den Mittelwert – ungenaue Werte führen zu falschen Spurabständen. Geben Sie dann die gemessene Breite ein.
+
+![](../bilder/image40.jpeg)
+
+##### 6.1.2.3 Spurabstand
+
+- **Definition:** Abstand zwischen zwei benachbarten Arbeitsbahnen.
+- **Linke Anschlussspur:** die Bahn links vom Fahrer.
+- **Rechte Anschlussspur:** die Bahn rechts vom Fahrer.
+- **Überlappung (Overlap):** doppelt bearbeiteter Streifen zwischen zwei Bahnen.
+- **Lücke (Skip):** unbearbeiteter Streifen zwischen zwei Bahnen.
+
+![](../bilder/image41.png)
+
+##### 6.1.2.4 Gerätebreite
+
+Die **Gerätebreite** ist der Abstand zwischen der äußersten linken und rechten Kante des Anbaugeräts (nicht die Arbeitsbreite).
+
+![](../bilder/image44.png)
+
+![](../bilder/image45.png) ![](../bilder/image46.png)
+
+##### 6.1.2.5 Geräteversatz
+
+Der **Geräteversatz** ist der seitliche Abstand zwischen der Mitte des Fahrzeugs und der Mitte des Anbaugeräts. Liegen beide Mitten übereinander, ist der Versatz **0**. Markieren Sie zum Messen die Mitte von Fahrzeug und Gerät.
+
+![](../bilder/image47.png)
+
+##### 6.1.2.6 Abstand Kupplungspunkt – Arbeitspunkt
+
+Abstand zwischen dem **Kupplungspunkt** von Fahrzeug und Gerät und dem Arbeitspunkt des Geräts.
+
+![](../bilder/image48.png)
+
+#### 6.1.3 Wendeeinstellungen
+
+![](../bilder/image49.png)
+
+| Nr. | Feld | Beschreibung |
+|:--:|----|----|
+| 1 | Automatische Wende | Schaltfläche für die automatische Wende ein- oder ausblenden |
+| 2 | Wenderadius | Kleinster Wenderadius des Fahrzeugs für die automatische Wende |
+| 4 | ← | Zurück zu **Maße** |
+| 5 | √ | Anbaugerät aktivieren und speichern |
+| 6 | Speichern | Aktuelle Einstellungen speichern |
+
+## 7. Feldverwaltung
+
+Auf dem Hauptbildschirm sehen Sie das aktuelle Feld mit Satellitenbild. Tippen Sie auf die **Feldkarte**, um die Feldliste zu öffnen; dort legen Sie Felder an, löschen oder bearbeiten sie.
+
+![](../bilder/image17.png)
+
+### 7.1 Feldliste
+
+![](../bilder/image50.png)
+
+1. Felder über Stichwörter suchen.
+2. Sortierung umschalten: **nach Entfernung / nach Zeit**.
+3. Kennzeichnet das Feld der aktuellen Aufgabe.
+4. Satellitenbild des gewählten Feldes.
+5. Felder anlegen, löschen oder bearbeiten.
+
+### 7.2 Neues Feld anlegen
+
+Tippen Sie auf **＋**.
+
+![](../bilder/image51.png)
+
+Es öffnet sich ein Fenster zum Anlegen eines Feldes.
+
+![](../bilder/image52.png)
+
+1. Eindeutigen **Feldnamen** eingeben.
+2. **Betrieb** auswählen. Die Liste wird mit der Plattform abgeglichen; Betriebe können auch in der Handy-App angelegt werden.
+3. ![](../bilder/image53.png) tippen, um das Feld anzulegen. Das neue Feld erscheint in der Liste und ist ausgewählt.
+4. ![](../bilder/image54.png) tippen, um ohne Anlegen abzubrechen.
+
+### 7.3 Feld löschen
+
+![](../bilder/image55.png)
+
+Wählen Sie das Feld in der Liste aus und tippen Sie auf **Löschen**. Bestätigen Sie mit ![](../bilder/image53.png). Die Feldliste wird automatisch aktualisiert.
+
+> **Hinweise:**
+>
+> - Mit dem Feld werden auch alle zugehörigen Aufgaben gelöscht.
+> - Sind im Feld noch offene Aufgaben, gehen Sie vorsichtig vor.
+> - Das Feld der aktuellen Aufgabe kann nicht gelöscht werden; **Löschen** ist dann ausgegraut.
+
+## 8. Arbeitsbildschirm
+
+Sind Sie angemeldet, das Fahrzeug angelegt und kalibriert, das Anbaugerät angelegt und eine Aufgabe erstellt, tippen Sie auf das Symbol **Arbeitsbildschirm**.
+
+![](../bilder/image56.png)
+
+Der **Arbeitsbildschirm** öffnet sich.
+
+![](../bilder/image57.png)
+
+1. **Statusleiste:** zeigt bearbeitete Fläche, gefahrene Strecke, Einsatzzeit und Durchschnittsgeschwindigkeit. Tippen auf die Symbolgruppe oben links öffnet das Aufgaben-Popup; erneutes Tippen oder Tippen irgendwo auf den Bildschirm schließt es.
+2. **Einstellungen:** zeigt Systeminformationen wie Satellitenstatus, SIM-Status, Geräte-ID und Uhrzeit. Tippen auf die Symbolgruppe oben rechts öffnet das Einstellungsfenster; erneutes Tippen schließt es.
+3. **Referenzlinie:** neue Führungslinie anlegen.
+4. **Referenzlinie wechseln:** zu einer anderen Führungslinie wechseln.
+5. **Feinverschiebung:** Lage der Führungslinie fein verschieben.
+6. **Lenkparameter:** Lenk- und Navigationseinstellungen des Fahrzeugs anpassen.
+7. **Wendeeinstellungen:** automatische Wende ein- oder ausschalten.
+8. **Startseite:** zurück zum Hauptbildschirm.
+9. **Feldmanager:** Details des aktuellen Feldes ansehen und bearbeiten.
+10. **Hilfe:** Fernwartung, KI-Sprachassistent, Downloads und Videoanleitungen.
+11. **ISOBUS-Einstellungen:** ISOBUS-Parameter anpassen.
+12. **Kamera:** Kamerabild ein- oder ausschalten.
+13. **Automatische Wende:** Wende nach links oder rechts auslösen.
+14. **Spuranzeige:** bearbeitete Spuren ein- oder ausblenden.
+15. **Lenkautomatik:** automatisches Lenken ein- oder ausschalten.
+16. **Kompass:** zeigt die aktuelle Fahrtrichtung.
+17. **Maßstab:** Kartenmaßstab.
+
+## 9. Feldmanager
+
+Tippen Sie unten im Arbeitsbildschirm auf das Symbol **Feldverwaltung**.
+
+![](../bilder/image58.png)
+
+Der **Feldmanager** öffnet sich.
+
+![](../bilder/image59.png)
+
+Über das obere Menü sehen Sie die Details des aktuellen Feldes und können sie bearbeiten.
+
+- **Referenzlinie:** umbenennen, aktivieren/deaktivieren, löschen, laden, Fahrgassen oder Zufahrtswege festlegen.
+- **Feldgrenze:** **Vorgewende** an der Feldgrenze anlegen.
+
+## 10. Linienarten
+
+Tippen Sie auf **Navigationswerkzeug** ![](../bilder/image60.png), wählen Sie die gewünschte Referenzlinie ![](../bilder/image61.png) und die Linienart. Mit ![](../bilder/image53.png) geht es weiter.
+
+![](../bilder/image62.png)
+
+Zur Auswahl stehen u. a. **AB-Linie**, **A+-Linie** und **Kurve**.
+
+### 10.1 AB-Linie
+
+1. Linienart **AB-Linie** wählen.
+
+   ![](../bilder/image63.png)
+
+2. Fahrzeug an den Feldanfang fahren, in Arbeitsrichtung ausrichten und auf **Punkt A** tippen.
+
+   ![](../bilder/image64.png)
+
+3. Von Hand bis zum Feldende fahren und auf **Punkt B** tippen. Damit ist die AB-Linie fertig. A und B müssen mindestens 5 m auseinander liegen.
+
+   ![](../bilder/image65.png)
+
+4. Mit **Bestätigen** (grünes √) abschließen. Mit **Abbrechen** (rotes ×) können Sie jederzeit abbrechen.
+
+   ![](../bilder/image66.png) ![](../bilder/image67.png)
+
+> ![Hinweis](../bilder/image34.png)
+>
+> Beim Anlegen der AB-Linie darf das Gerät nicht arbeiten (Leerfahrt).
+>
+> Bei jedem Feldwechsel muss die AB-Linie neu angelegt werden. Wird die Arbeit nicht am selben Tag fertig, laden Sie am nächsten Tag das Feld und arbeiten weiter.
+
+### 10.2 A+-Linie
+
+1. Symbol **A+-Linie** antippen.
+
+   ![](../bilder/image68.png)
+
+2. Richtung in Grad eingeben. Beim Wechsel in den A+-Modus übernimmt das System automatisch die aktuelle Fahrtrichtung als Vorgabewert.
+
+   ![](../bilder/image69.png)
+
+   Richtungen: Nord = 0°, Ost = 90°, Süd = 180°, West = 270°.
+
+3. Mit **Bestätigen** abschließen.
+
+### 10.3 Kurve
+
+Im Modus **Kurve** zeichnen Sie eine Fahrt mit Kurven und Geraden auf. **Vectoris Pro** nimmt sie als Referenzlinie und legt automatisch parallele Führungslinien im Abstand der Arbeitsbreite links und rechts daneben.
+
+1. Symbol **Kurve** antippen.
+
+   ![](../bilder/image70.png)
+
+2. Zum Startpunkt der Aufzeichnung fahren.
+3. **Aufzeichnen** tippen.
+
+   ![](../bilder/image71.png)
+
+4. Das Terminal markiert den Startpunkt auf der Karte und zeigt die gefahrene Spur als gestrichelte Linie.
+   - Für ein gerades Stück **Aufzeichnung pausieren** tippen – die während der Pause gefahrene Strecke wird als Gerade übernommen.
+
+     ![](../bilder/image72.png)
+
+   - Mit **Aufzeichnung fortsetzen** geht die Kurvenaufzeichnung weiter.
+
+     ![](../bilder/image73.png)
+
+5. Am Ende der Strecke **Bestätigen** tippen. Mit **Abbrechen** wird die Aufzeichnung jederzeit verworfen.
+
+### 10.4 Kreis
+
+Im Modus **Kreis** bietet **Vectoris Pro** drei Methoden, einen Kreis festzulegen – wählen Sie die, die vor Ort am besten passt.
+
+1. Symbol **Kreis** antippen.
+
+   ![](../bilder/image74.png)
+
+2. Auf das Auswahlfeld **Methode** tippen und die Methode aus der Liste wählen.
+
+   ![](../bilder/image75.png)
+
+   - **Durchmesser:** Kreis durch Abfahren eines Durchmessers von mindestens 15 m.
+
+     ![](../bilder/image76.png)
+
+   - **Radius:** Kreis durch Mittelpunkt O und einen Punkt A auf dem Umfang.
+
+     ![](../bilder/image77.png)
+
+   - **Drei Punkte:** Kreis durch drei Punkte A, B und C auf dem Umfang.
+
+     ![](../bilder/image78.png)
+
+### 10.5 AB-Linie (Koordinaten)
+
+Haben Sie die Koordinaten von **A** und **B** schon, können Sie die **AB-Linie** direkt eingeben.
+
+1. Symbol **AB-Linie (Koordinaten)** antippen.
+
+   ![](../bilder/image79.png)
+
+2. Breiten- und Längengrad von **A** und **B** eingeben und mit ![](../bilder/image66.png) anlegen.
+
+   ![](../bilder/image80.png)
+
+> ![Hinweis](../bilder/image34.png)
+>
+> Breite und Länge in Dezimalgrad (z. B. 48.1234567) mit bis zu 7 Nachkommastellen eingeben.
+
+### 10.6 A+-Linie (Koordinaten)
+
+Ebenso lässt sich eine **A+-Linie** aus Koordinaten anlegen.
+
+1. Symbol **A+-Linie (Koordinaten)** antippen.
+
+   ![](../bilder/image81.png)
+
+2. Breiten- und Längengrad von **A** und die Richtung eingeben, dann **Bestätigen**.
+
+   ![](../bilder/image82.png)
+
+## 11. Automatisches Lenken
+
+| Symbol | Zustand | Funktion |
+|:--:|----|----|
+| ![](../bilder/image83.png)<br>orange | Bereit zum automatischen Lenken | Antippen startet das Lenken |
+| ![](../bilder/image84.png)<br>grün | Lenkt automatisch | Antippen stoppt das Lenken |
+| ![](../bilder/image85.png)<br>rot | Automatisches Lenken nicht möglich | Fehler prüfen |
+
+## 12. Feinverschiebung
+
+Um die Führungslinie fein zu verschieben, tippen Sie rechts im Arbeitsbildschirm auf **Feinverschiebung**.
+
+![](../bilder/image86.png)
+
+| Nr. | Name | Beschreibung |
+|:--:|----|----|
+| 1 | Gesamtversatz | Verschiebung gegenüber der ursprünglichen Linie (0). „–“ = nach links, „+“ = nach rechts. |
+| 2 | Nach links | Linie nach links verschieben |
+| 3 | Hierher | Linie auf die aktuelle Fahrzeugposition legen |
+| 4 | Nach rechts | Linie nach rechts verschieben |
+| 5 | Schrittweite | Verschiebung pro Tippen (in cm) |
+| 6 | Zurücksetzen | Linie auf die ursprüngliche Lage zurücksetzen |
+
+> ![Hinweis](../bilder/image34.png)
+>
+> Wird der Arbeitsbildschirm mit einer neuen Aufgabe geöffnet, werden alle Verschiebungen zurückgesetzt.
+
+## 13. Allgemeine Funktionen
+
+### 13.1 Statusleiste
+
+Zeigt die Arbeitsdaten in Echtzeit. Tippen Sie während der Arbeit (mit oder ohne Lenkautomatik) auf den Bereich oben links, um ein Fenster zu öffnen. Erneutes Tippen oder Tippen auf eine freie Fläche schließt es.
+
+![](../bilder/image87.png)
+
+| Nr. | Wert | Beschreibung |
+|:--:|----|----|
+| 1 | Aufgabe | Name der aktuellen Aufgabe |
+| 2 | Einsatzzeit | Summe der Zeit mit Lenkautomatik. Pausiert, wenn sie aus ist. Ist die Spuraufzeichnung auf „manuell“ gestellt, zählt auch manuelles Fahren. |
+| 3 | Strecke | Summe der Strecke mit Lenkautomatik. Pausiert, wenn sie aus ist. Ist die Spuraufzeichnung auf „manuell“ gestellt, zählt auch manuelles Fahren. |
+| 4 | Fläche manuell | Von Hand gefahrene, bearbeitete Fläche |
+| 5 | Fläche automatisch | Mit Lenkautomatik bearbeitete Fläche |
+| 6 | Aufgabenliste | Öffnet die Aufgabenliste zum Ansehen und Auswählen |
+
+### 13.2 Einstellungen
+
+Tippen Sie oben rechts auf einem beliebigen Bildschirm auf den **Statusbereich**, um das Menü **Einstellungen** zu öffnen. Erneutes Tippen schließt es.
+
+![](../bilder/image88.png)
+
+| Symbol | Beschreibung |
+|:--:|----|
+| ![](../bilder/image89.png) | **Allgemein** – Design (hell/dunkel), Helligkeit, Lautstärke, Warnton, Einheiten, Satellitenkarte |
+| ![](../bilder/image90.png) | **WLAN** – WLAN-Netze verbinden und einstellen |
+| ![](../bilder/image91.png) | **Mobilfunk** – SIM-Karte anzeigen, Mobilfunknetz einstellen |
+| ![](../bilder/image92.png) | **RTK** – Korrekturdatenquelle einstellen und verwalten |
+| ![](../bilder/image93.png) | **Navigation** – Navigationsmodus und -parameter |
+| ![](../bilder/image94.png) | **Externe Geräte** – Zubehör wie 360°-Kameras oder kabelgebundene Joysticks |
+| ![](../bilder/image95.png) | **Lizenzen** – Basisdienste, SBAS und kostenpflichtige Softwarefunktionen |
+| ![](../bilder/image96.png) | **Demomodus** – Vorführmodus ein/aus und einstellen |
+
+### 13.3 Anschluss einstellen
+
+1. Auf dem Hauptbildschirm die **Anbaugerätekarte** antippen und das Gerät wählen, dessen **Anschluss** (Spurabstand) korrigiert werden soll.
+
+   ![](../bilder/image97.png)
+
+2. **Maße** öffnen; dort lassen sich die Werte von Hand anpassen.
+
+   ![](../bilder/image98.png)
+
+3. **Drei-Bahnen-Methode:** Mit dem Traktor dreimal hin und zurück fahren. Am Fahrzeug nach der letzten Bahn feststellen, ob die Abweichung **links** oder **rechts** liegt. Den gemessenen **Spurabstand** eingeben und **Bestätigen** tippen.
+
+> ![Hinweis](../bilder/image34.png)
+>
+> Vor dem Einstellen müssen die Gerätemaße stimmen. Die Summe der beiden gemessenen Abstände (links und rechts) muss **dem doppelten Soll-Spurabstand** entsprechen.
+>
+> *Beispiel:* links 62 cm, rechts 70 cm, Soll 66 cm: 70 + 62 = 66 × 2 – die Gerätemaße stimmen.
+
+![](../bilder/image99.png)
+
+### 13.4 Lenkparameter
+
+![](../bilder/image100.png)
+
+- **Empfindlichkeit Linieneinfahrt** – wie schnell auf die Linie korrigiert wird.
+- **Seitliche Empfindlichkeit** – Zeitpunkt der Lenkkorrektur.
+- **Richtungsempfindlichkeit** – Größe der Lenkkorrektur.
+- **Geländeausgleich** – wie stark Gelände- und Hangeinflüsse ausgeglichen werden.
+- **Lenkverstärkung** – Frequenz der Lenkradbewegung.
+
+### 13.5 Versionsverwaltung
+
+Tippen Sie auf dem Hauptbildschirm auf **Versionsverwaltung**.
+
+![](../bilder/image101.png)
+
+Wählen Sie unten rechts die Art des Updates:
+
+- **Lokales Update:** USB-Stick anstecken und die gewünschte Version installieren.
+- **Online-Update:** prüft im Netz auf neue Versionen und bietet Download und Installation an.
+
+![](../bilder/image102.png)
+
+# V. HD Digital Ag
+
+![](../bilder/image103.png)
+
+Feldgrenzen, Anbaugeräte, Betriebsmittel, Applikationskarten und Aufgaben können auf der Plattform angelegt und mit den HD-Lenksystemen von Huida, der HD-Agrardrohne und der HD-Ag-App abgeglichen werden – die Daten sind auf allen drei Plattformen gleich.
+
+- HD-Ag-Plattform: [www.huidaag.com](http://www.huidaag.com)
+- HD-Ag-App:
+
+![](../bilder/image104.png)
+
+# VI. Häufige Probleme
+
+## 1. Statusanzeigen
+
+| Anzeige | Status | Bedeutung |
+|----|----|----|
+| Positionsstatus | Fixed | Normal (RTK fix) |
+| | Floating | Schwacher oder zu wenig Satellitenempfang |
+| | Pseudorange | Keine Korrekturdaten von der Basisstation |
+| | Single Point | Nur Einzelpositionierung ohne Korrektur |
+| | Invalid | Kein Satellitenempfang |
+| WAS (Lenkwinkel) | Not connected | Anschluss des Hauptkabelbaums prüfen |
+| | Connected | Normal |
+| Heading/Lenkwinkel | Uninitialized | Kann nach längerem Stillstand auftreten. Fahrzeug starten und mit mehr als 1,6 km/h vorwärts fahren, dann initialisiert es sich neu. |
+
+## 2. Fehlersuche
+
+| Fehlerbild | Ursache | Abhilfe |
+|----|----|----|
+| Terminal startet nicht | Sicherung defekt | Sicherung ersetzen |
+| Eingeschaltet, aber Lenkrad bewegt sich nicht | Motor defekt | Motor ersetzen |
+| Bildschirm schwarz oder flackert | Terminal defekt | Terminal ersetzen |
+| | Terminal-Kabelbaum beschädigt | Terminal-Kabelbaum ersetzen |
+| | Hauptkabelbaum des Empfängers ohne Strom | Hauptkabelbaum ersetzen |
+| | Batterie leer / Stromkabel locker | Batterie laden oder Stromanschluss festziehen |
+| Lenkautomatik schaltet unerwartet ab | Wackelkontakt im Kabelbaum | Steckverbindungen prüfen und sichern |
+
+# VII. Wartung
+
+- Für einen störungsfreien Betrieb und eine lange Lebensdauer das System genau nach den Vorgaben warten.
+- Die Hauptkomponenten nicht eigenmächtig zerlegen oder umbauen. Bei Bedarf umgehend den autorisierten Kundendienst kontaktieren.
+- Das System nur gemäß dieser Anleitung bedienen.
+- Wöchentlich alle Schrauben, Kabelbäume und Stecker prüfen – z. B. die Befestigung von **Steuergerät**, **Winkelsensor** und **Datenkabelsteckern**. Lockere, abgerissene oder beschädigte Teile sofort festziehen bzw. instand setzen.
+
+**Wartung des Lenkmotors:**
+
+- Lenkmotor sauber halten; Staub, Erde und Schmutz nicht über längere Zeit auf dem Motor liegen lassen.
+- Motor im Betrieb nicht mit Tüchern, Staubhüllen o. Ä. abdecken, damit er ausreichend belüftet und gekühlt wird.
+- Vor jeder Saison prüfen, ob die Mechanik leichtgängig ist, die Kupplung rund läuft und das Getriebe frei dreht. Bei Klemmen die Ursache vor dem Einsatz beseitigen.
+
+# VIII. Kabelplan
+
+![](../bilder/image105.png)
+
+# IX. Garantie (Herstellerregelung Huida, China)
+
+> **Hinweis:** Dieses Kapitel gibt die Garantieregelung des Herstellers für China („Drei Garantien“: Reparatur, Austausch, Rückgabe) wieder. In Deutschland und Österreich gelten die gesetzlichen Gewährleistungsrechte sowie die Garantiebedingungen Ihres Händlers.
+
+Um die Rechte der Nutzer zu schützen, einen besseren Service zu bieten und die Kundendienstzusagen des Unternehmens sicherzustellen, gelten die folgenden Regeln.
+
+Jedem Produkt liegt ein Garantieheft („Drei Garantien“: Reparatur, Austausch, Rückgabe) bei, eines pro Maschine. Füllen Sie die **Registrierungskarte** gleich nach dem Kauf aus.
+
+Grundlage sind die einschlägigen Gesetze, etwa das *Produktqualitätsgesetz* und das *Verbraucherschutzgesetz der Volksrepublik China*.
+
+Die Garantiezeit beginnt mit dem Rechnungsdatum. Reparaturzeiten und Wartezeiten wegen fehlender Ersatzteile werden nicht auf die Garantiezeit angerechnet.
+
+a. Wird innerhalb von **fünf (5) Tagen** nach dem Kauf ein Qualitätsmangel festgestellt, kann der Käufer **Rückerstattung oder Austausch** wählen.  
+b. Bei einem Austauschgerät beginnt die Garantiezeit mit dem Austauschdatum neu.  
+c. Funktioniert das Produkt nach **zwei Reparaturen** innerhalb der Garantiezeit immer noch nicht, werden die defekten **Systemkomponenten** durch neue ersetzt.  
+d. In der **Hauptsaison** werden Störungen im Servicegebiet behoben: einfache Fehler innerhalb von **2 Tagen**, komplexe Fehler innerhalb von **5 Tagen**.
+
+Für eine Garantieleistung bringen Sie dieses Heft und die Rechnung zu einer autorisierten Servicestelle und füllen das **Reparaturprotokoll** aus.
+
+a. In Regionen ohne Servicenetz des Herstellers ist der **örtliche Händler** zuständig.  
+b. Gibt es keinen Händler, kann sich der Servicetechniker mit dem **Reparaturprotokoll** direkt an den **Hersteller** wenden.
+
+Routinewartung, Pflege, Einstellung und Prüfung laut **Produkthandbuch** fallen **nicht** unter die Garantie.
+
+Die Garantiezeit für das **komplette System** beträgt **ein (1) Jahr** und umfasst alle Hardwarekomponenten.
+
+**Ausschlüsse**
+
+In folgenden Fällen besteht kein Garantieanspruch; eine **kostenpflichtige Reparatur** ist möglich:
+
+a. Vorzeitiger Verschleiß oder Defekt durch **unsachgemäße Nutzung, Wartung oder Pflege**, z. B. Betrieb außerhalb der im Handbuch genannten Bedingungen, Nichtbeachtung der Anleitung oder eigenmächtiges Ändern von Spannungsparametern.  
+b. Defekte durch **eigenmächtige Änderung, Einstellung oder Demontage** von Komponenten, die laut Handbuch verboten ist.  
+c. Fehlender **Garantieschein** und **Kaufbeleg** oder kein Nachweis, dass die Garantiezeit noch läuft.  
+d. Modell oder Ausführung auf **Garantieschein/Rechnung** stimmen nicht mit dem Produkt überein oder wurden verändert.  
+e. Der Originalzustand wurde nach dem Fehler nicht erhalten oder vor der technischen Prüfung **unbefugt eingegriffen**, sodass die Ursache nicht mehr feststellbar ist.  
+f. Schäden durch **Fehlbedienung**, z. B. Verlassen der Kabine bei eingeschalteter Lenkautomatik.  
+g. Schäden durch **höhere Gewalt** (z. B. Naturkatastrophen).
+
+> ![Hinweis](../bilder/image34.png)
+>
+> Bei Widersprüchen zwischen diesen Regeln und gesetzlichen Vorschriften gelten die **gesetzlichen Vorschriften**.
+
+## Garantieschein
+
+| | | | |
+|----|----|----|----|
+| **Produkt** | Produktname | Automatisches Lenksystem | |
+| | Modell | | Terminalnummer |
+| **Kunde** | Name | | Anschrift |
+| | Telefon | | PLZ |
+| **Händler** | Firma | | Anschrift |
+| | Telefon | | PLZ |
+| | Verkaufsdatum | | Preis |
+| | Rechnungsnummer | | Händlerstempel |
+| **Hersteller** | Firma | | Anschrift |
+| | PLZ | | |
