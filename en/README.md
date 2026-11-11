@@ -185,8 +185,8 @@ Tap the ![](../bilder/image26.png) button to add a new vehicle.
 | 3 | Antenna to rear axle | Horizontal distance from the antenna to the rear axle, unit: m (Required) |
 | 4 | Antenna to centerline | Distance from the antenna to the vehicle centerline, unit: m |
 | 5 | Rear axle to implement working point | Distance from the rear axle to the three-point hitch, unit: m |
-| 6 | Vehicle maximum overall width | Distance from the rear axle to the drawbar point, unit: m |
-| 7 | Working width | Distance between the leftmost and rightmost working points of the implement, unit: m (Required) |
+| 6 | Maximum overall width | Width of the implement from edge to edge, unit: m |
+| 7 | Working width | Actual working width from the leftmost to the rightmost working point, unit: m. Sets the spacing of the guidance lines (AB line etc.). (Required) |
 | 8 | ![](../bilder/image30.svg) | Operation button. Tap to go back to **Vehicle Information**. |
 | 9 | ![](../bilder/image32.svg) | Operation button. Tap to go to **Control Information**. |
 

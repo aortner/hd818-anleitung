@@ -185,8 +185,8 @@ Tippen Sie auf ![](../bilder/image26.png), um ein neues Fahrzeug anzulegen.
 | 3 | Antenne – Hinterachse | Waagrechter Abstand der Antenne zur Hinterachse, in m (Pflichtfeld) |
 | 4 | Antenne – Mittellinie | Seitlicher Abstand der Antenne zur Fahrzeugmitte, in m |
 | 5 | Hinterachse – Arbeitspunkt | Abstand Hinterachse bis Dreipunkt-Kupplung, in m |
-| 6 | Max. Fahrzeugbreite | Abstand Hinterachse bis Zugpunkt, in m |
-| 7 | Arbeitsbreite | Abstand zwischen äußerstem linken und rechten Arbeitspunkt des Anbaugeräts, in m (Pflichtfeld) |
+| 6 | Max. Gesamtbreite | Breite des Geräts von Kante zu Kante, in m |
+| 7 | Arbeitsbreite | Tatsächliche Arbeitsbreite vom äußersten linken bis zum äußersten rechten Arbeitspunkt, in m. Danach richtet sich der Abstand der Führungslinien (AB-Linie usw.). (Pflichtfeld) |
 | 8 | ![](../bilder/image30.svg) | Zurück zu **Fahrzeugdaten** |
 | 9 | ![](../bilder/image32.svg) | Weiter zu **Lenkeinstellungen** |
 
