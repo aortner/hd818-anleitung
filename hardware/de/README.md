@@ -163,23 +163,7 @@ Das Terminal so montieren, dass der Fahrer es **gut sieht und leicht bedienen** 
 
 ![](../../bilder/hw/terminal-ram.jpg)
 
-# 6. IMU (Lagesensor)
-
-Die IMU wird meist im rot markierten Bereich auf dem Kabinenboden montiert. Sie muss **parallel zum Fahrzeugrahmen** liegen und darf sich nicht bewegen.
-
-![](../../bilder/hw/imu-position.png) ![](../../bilder/hw/imu-kabine.jpg)
-
-![](../../bilder/hw/imu.png)
-
-> **Bitte beachten:**
->
-> - Die IMU liegt **direkt auf dem Kabinenboden**, ohne Gummiunterlage.
-> - Der Stecker der IMU zeigt **nach vorne** (in Fahrtrichtung).
-> - Die IMU mit **vier Schrauben** festschrauben.
-> - Keine Magnete, Metallteile oder andere störende Gegenstände in der Nähe.
-> - Die IMU nicht mit Metall abdecken und vor Nässe schützen.
-
-# 7. Gyro-Lenkwinkelsensor
+# 6. Gyro-Lenkwinkelsensor
 
 Der Winkelsensor wird mit seiner Halterung an einem Bolzen befestigt, der sich **mit dem Vorderrad mitdreht** (z. B. am Achsschenkel).
 
@@ -194,13 +178,13 @@ Der Winkelsensor wird mit seiner Halterung an einem Bolzen befestigt, der sich *
 > - Das Kabel nicht zu lang und nicht zu kurz lassen – bei vollem Lenkeinschlag darf es nicht spannen.
 > - Prüfen, dass der Sensor im ganzen Lenk- und Federweg **nirgends anstößt**.
 
-# 8. Kamera
+# 7. Kamera
 
 Die Kamera hinten am Kabinendach befestigen und so ausrichten, dass der Arbeitsbereich hinter dem Traktor vollständig zu sehen ist. Am Terminal lässt sich das Kamerabild ein- und ausschalten.
 
 ![](../../bilder/hw/kamera-dach.jpg) ![](../../bilder/hw/kamera-schalter.jpg)
 
-# 9. Kabelbaum
+# 8. Kabelbaum
 
 ![](../../bilder/hw/kabelplan.png)
 
@@ -210,7 +194,7 @@ Die Kamera hinten am Kabinendach befestigen und so ausrichten, dass der Arbeitsb
 > - Kabel so verlegen, dass sie den Fahrer **nicht behindern**.
 > - Kabel nicht zu straff verlegen und nicht scharf abknicken.
 
-# 10. Stromversorgung
+# 9. Stromversorgung
 
 Versorgungsspannung: **9–30 V**.
 

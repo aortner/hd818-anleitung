@@ -163,23 +163,7 @@ Mount the terminal where the driver can **see and operate it easily** without be
 
 ![](../../bilder/hw/terminal-ram.jpg)
 
-# 6. IMU (Attitude Sensor)
-
-The IMU is usually mounted on the cab floor in the area marked in red. It must be **parallel to the vehicle frame** and must not move.
-
-![](../../bilder/hw/imu-position.png) ![](../../bilder/hw/imu-kabine.jpg)
-
-![](../../bilder/hw/imu.png)
-
-> **Please note:**
->
-> - The IMU sits **directly on the cab floor**, without a rubber pad.
-> - The IMU connector points **forward** (driving direction).
-> - Fasten the IMU with **four screws**.
-> - Keep magnets, metal parts and other interfering objects away.
-> - Do not cover the IMU with metal and protect it from moisture.
-
-# 7. Gyro Steering Angle Sensor
+# 6. Gyro Steering Angle Sensor
 
 The angle sensor is fastened with its bracket to a bolt that **turns with the front wheel** (e.g. on the steering knuckle).
 
@@ -194,13 +178,13 @@ The angle sensor is fastened with its bracket to a bolt that **turns with the fr
 > - Leave the cable neither too long nor too short – it must not be stretched at full steering lock.
 > - Check that the sensor **does not hit anything** through the full steering and suspension travel.
 
-# 8. Camera
+# 7. Camera
 
 Mount the camera at the rear of the cab roof and aim it so the working area behind the tractor is fully visible. The camera image can be switched on and off on the terminal.
 
 ![](../../bilder/hw/kamera-dach.jpg) ![](../../bilder/hw/kamera-schalter.jpg)
 
-# 9. Wiring Harness
+# 8. Wiring Harness
 
 ![](../../bilder/hw/kabelplan.png)
 
@@ -210,7 +194,7 @@ Mount the camera at the rear of the cab roof and aim it so the working area behi
 > - Route cables so they **do not hinder** the driver.
 > - Do not route cables too tight and do not kink them.
 
-# 10. Power Supply
+# 9. Power Supply
 
 Supply voltage: **9–30 V**.
 
