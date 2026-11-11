@@ -30,7 +30,7 @@ The screens shown are from a test version. The functions actually shown on your 
 - Read all documents supplied with this product carefully before use, so you understand how to operate it and which precautions to take.
 - Do not take the equipment apart yourself; leave this to qualified personnel. Always disconnect the power first – never disassemble the equipment while it is powered.
 - Connect the equipment exactly as described in this manual. Wrong connections can damage the equipment and cause safety hazards.
-- Observe the power supply requirements: the supply voltage must be between 9 and 35 V.
+- Observe the power supply requirements: the supply voltage must be between 9 and 30 V.
 - Check all wiring harnesses. Replace damaged harnesses promptly to avoid malfunctions and safety hazards.
 - Do not open the housing of any component yourself; otherwise repairs will not be provided.
 - The product has no obstacle detection. A person must therefore always be present while the system is steering and watch the surroundings.

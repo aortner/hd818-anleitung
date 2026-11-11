@@ -210,3 +210,4 @@ Supply voltage: **9–30 V**.
 >
 > - With 24 V (two batteries in series), **do not tap just one battery**.
 > - Connect **directly at the battery terminals**.
+> - Alternatively, the system can be connected to the vehicle's **3-pin power socket**, provided it is **fused high enough**.

@@ -210,3 +210,4 @@ Versorgungsspannung: **9–30 V**.
 >
 > - Bei 24 V (zwei Batterien in Reihe) **nicht nur eine Batterie** anzapfen.
 > - Direkt **an den Batteriepolen** anschließen.
+> - Alternativ kann das System an der **3-poligen Steckdose** im Fahrzeug angeschlossen werden, wenn diese **ausreichend stark abgesichert** ist.

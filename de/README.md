@@ -30,7 +30,7 @@ Die gezeigten Bildschirme stammen aus einer Testversion. Maßgeblich sind die Fu
 - Lesen Sie vor der Verwendung alle mitgelieferten Unterlagen sorgfältig durch, um Bedienung und Vorsichtsmaßnahmen zu verstehen.
 - Zerlegen Sie das Gerät nicht selbst. Lassen Sie das nur von Fachpersonal machen. Vor jeder Demontage ist die Stromversorgung abzuschalten; das Gerät darf niemals unter Spannung zerlegt werden.
 - Schließen Sie das Gerät nur genau nach den Vorgaben dieses Handbuchs an. Falsche Anschlüsse können Geräteschäden und Sicherheitsrisiken verursachen.
-- Achten Sie auf die Anforderungen an die Spannungsversorgung: Die Versorgungsspannung muss zwischen 9 und 35 V liegen.
+- Achten Sie auf die Anforderungen an die Spannungsversorgung: Die Versorgungsspannung muss zwischen 9 und 30 V liegen.
 - Prüfen Sie alle Kabelbäume. Beschädigte Kabelbäume sind rechtzeitig zu ersetzen, um Funktionsstörungen und Sicherheitsrisiken zu vermeiden.
 - Öffnen Sie die Gehäuse der Komponenten nicht selbst; andernfalls entfällt der Anspruch auf Reparatur.
 - Das Produkt hat keine aktive Hinderniserkennung. Während das automatische Lenksystem arbeitet, muss daher immer eine Person anwesend sein und die Umgebung überwachen.
