@@ -9,9 +9,9 @@ lang: de
 
 ## 1. Haftungsausschluss
 
-Dieses Dokument enthält Informationen zu den Produkten der Heilongjiang Huida Technology Co., Ltd. Es überträgt weder ausdrücklich noch stillschweigend, durch Rechtsverwirkung oder auf andere Weise Patente, Marken, Urheberrechte, Eigentumsrechte oder sonstige Rechte oder Lizenzen dieses Unternehmens oder Dritter.
+Dieses Dokument beschreibt Produkte der Heilongjiang Huida Technology Co., Ltd. Es räumt keine Rechte an Patenten, Marken, Urheberrechten oder sonstigen Schutzrechten von Huida oder Dritten ein – weder ausdrücklich noch stillschweigend.
 
-Mit Ausnahme der in den Verkaufsbedingungen genannten Pflichten übernimmt Huida keine weitere Haftung. Das Unternehmen gibt keine ausdrücklichen oder stillschweigenden Garantien zum Verkauf oder zur Nutzung seiner Produkte, einschließlich der Eignung für einen bestimmten Zweck, der Marktgängigkeit oder der Nichtverletzung von Patenten, Urheberrechten oder anderen Schutzrechten. Produktspezifikationen und -beschreibungen können jederzeit ohne Vorankündigung geändert werden.
+Über die Pflichten aus den Verkaufsbedingungen hinaus übernimmt Huida keine Haftung. Huida gibt keine Zusicherung, dass sich die Produkte für einen bestimmten Zweck eignen oder keine Schutzrechte Dritter verletzen. Technische Daten und Produktbeschreibungen können sich jederzeit ohne Ankündigung ändern.
 
 Alle Rechte vorbehalten ©2019–2025, Heilongjiang Huida Technology Co., Ltd.
 
@@ -28,7 +28,7 @@ Die gezeigten Bildschirme stammen aus einer Testversion. Maßgeblich sind die Fu
 ## 1. Hinweise zur Produktverwendung
 
 - Lesen Sie vor der Verwendung alle mitgelieferten Unterlagen sorgfältig durch, um Bedienung und Vorsichtsmaßnahmen zu verstehen.
-- Zerlegen Sie das Gerät nicht eigenmächtig, um Sicherheitsrisiken zu vermeiden. Wenden Sie sich bei Bedarf an Fachpersonal. Vor jeder Demontage ist die Stromversorgung abzuschalten; das Gerät darf niemals unter Spannung zerlegt werden.
+- Zerlegen Sie das Gerät nicht selbst. Lassen Sie das nur von Fachpersonal machen. Vor jeder Demontage ist die Stromversorgung abzuschalten; das Gerät darf niemals unter Spannung zerlegt werden.
 - Schließen Sie das Gerät nur genau nach den Vorgaben dieses Handbuchs an. Falsche Anschlüsse können Geräteschäden und Sicherheitsrisiken verursachen.
 - Achten Sie auf die Anforderungen an die Spannungsversorgung: Die Versorgungsspannung muss zwischen 9 und 35 V liegen.
 - Prüfen Sie alle Kabelbäume. Beschädigte Kabelbäume sind rechtzeitig zu ersetzen, um Funktionsstörungen und Sicherheitsrisiken zu vermeiden.
@@ -45,7 +45,7 @@ Die gezeigten Bildschirme stammen aus einer Testversion. Maßgeblich sind die Fu
 | | |
 |:--:|----|
 | ![](../bilder/image4.jpeg) | Bei aktivem automatischem Lenken darf der Fahrer die Kabine keinesfalls verlassen. |
-| ![](../bilder/image5.jpeg) | Das automatische Lenksystem darf nicht außerhalb der Arbeitszeit oder außerhalb des Arbeitsbereichs (Feld) verwendet werden. |
+| ![](../bilder/image5.jpeg) | Das automatische Lenksystem nur bei der Feldarbeit verwenden – nicht auf Straßen, Wegen oder anderen Flächen. |
 | ![](../bilder/image6.jpeg) | Verwenden Sie das Gerät nur gemäß dieser Anleitung; eigenmächtiges Ändern von Softwareparametern ist untersagt. |
 | ![](../bilder/image7.jpeg) | Wird das Gerät längere Zeit nicht benutzt, trennen Sie die Stromversorgung, damit die Batterie nicht entladen wird. |
 | ![](../bilder/image8.jpeg) | Schützen Sie die Geräte in der Kabine vor Wasser, insbesondere beim Reinigen des Fahrzeugs. |
@@ -56,16 +56,16 @@ Die gezeigten Bildschirme stammen aus einer Testversion. Maßgeblich sind die Fu
 
 ## 1. Produktübersicht
 
-Das automatische Lenksystem ist ein Kernsystem für intelligente Landtechnik, das von **Huida Technology** auf Basis eigener Kerntechnologien entwickelt und hergestellt wird.
+Das HD818 ist ein automatisches Lenksystem mit GNSS-Navigation, das **Huida Technology** selbst entwickelt und herstellt. Ein Lenkmotor mit hohem Drehmoment dreht das Lenkrad. Das System eignet sich für Traktoren, Pflanzmaschinen, Pflanzenschutzspritzen, Raupentraktoren und andere Landmaschinen.
 
-Das HD818 ist ein automatisches Lenksystem mit Navigation. Ein Lenkmotor mit hohem Drehmoment dreht das Lenkrad. Es eignet sich für Traktoren, Pflanzmaschinen, Pflanzenschutzspritzen, Raupentraktoren und weitere Landmaschinen.
+Das System hat sich in der Praxis bewährt. Alle nötigen Anbauteile sind dabei, sodass es in jede Landmaschine mit Lenkrad passt.
 
-Das System hat sich in der Praxis bewährt und bringt alle nötigen Anbauteile mit, sodass es zu allen Landmaschinen mit Lenkrad passt. Bei der Entwicklung wurden die Besonderheiten der landwirtschaftlichen Arbeit konsequent berücksichtigt.
+Vorteile:
 
-- Höhere Arbeitsgenauigkeit und damit bessere Qualität der Arbeit.
-- Statt „wenig Überlappung, keine Lücken“ von Hand: automatisch „keine Überlappung, präzise Arbeit“ – deutlich effizienter.
-- Längere Einsatzzeiten: Die Maschine kann weiterarbeiten, während der Fahrer entlastet ist, und auch nachts arbeiten.
-- Einfache Bedienung entlastet den Fahrer und senkt die Anforderungen an das Bedienpersonal.
+- Genauere Arbeit und damit bessere Qualität.
+- Von Hand versucht man, wenig zu überlappen und nichts auszulassen. Das Lenksystem fährt präzise Anschluss ohne Überlappung – das spart deutlich Zeit und Betriebsmittel.
+- Der Fahrer wird entlastet und kann länger arbeiten, auch nachts.
+- Die Bedienung ist einfach, auch weniger erfahrene Fahrer kommen schnell zurecht.
 
 ## 2. Hauptkomponenten
 
@@ -100,19 +100,19 @@ So melden Sie das Terminal auf Ihren Namen an:
 
    ![](../bilder/app-hdag-qr-scan.jpg)
 
-Das System verwaltet Bediener- und Produktionsdaten über persönliche Benutzerkonten und stellt Daten über die Plattform bereit.
+Über das Benutzerkonto werden Fahrer- und Arbeitsdaten gespeichert und mit der Plattform abgeglichen.
 
-Ohne Anmeldung sind alle Karten auf dem Hauptbildschirm grau. Tippen Sie auf die **Anmeldekarte** oben links auf dem Hauptbildschirm.
+Ohne Anmeldung sind alle Karten auf dem Hauptbildschirm grau. Die **Anmeldekarte** finden Sie oben links auf dem Hauptbildschirm.
 
 ![](../bilder/image17.png)
 
-Es gibt zwei Anmeldearten:
+Es gibt zwei Arten der Anmeldung:
 
-**Anmeldung per QR-Code** – QR-Code mit der **HD-Ag-App** scannen; für **persönliche bzw. reguläre Mitglieder**.
+**Per QR-Code** – den QR-Code mit der **HD-Ag-App** scannen. Für Nutzer mit eigenem Konto.
 
 ![](../bilder/image18.png)
 
-**Anmeldung per Autorisierungscode** – den Code eingeben, den die Organisation auf der Plattform ausgegeben hat; für **temporäre Mitglieder**.
+**Per Autorisierungscode** – einen Code eingeben, den der Betrieb auf der Plattform vergeben hat. Für Nutzer ohne eigenes Konto, die nur vorübergehend fahren (z. B. Aushilfsfahrer).
 
 ![](../bilder/image19.png)
 
@@ -122,7 +122,7 @@ Auf dem Hauptbildschirm stehen Karten für **Fahrzeug**, **Anbaugerät**, **Aufg
 
 ![](../bilder/image20.png)
 
-1. **Fahrzeugkarte:** Zeigt das aktuell gewählte Fahrzeug. Antippen öffnet die **Fahrzeugliste**. Ist kein Fahrzeug eingerichtet, erscheint ein ![](../bilder/image21.png)-Hinweis. Dann lässt sich der **Arbeitsbildschirm** nicht öffnen, weil ein Fahrzeug nötig ist.
+1. **Fahrzeugkarte:** Zeigt das aktuell gewählte Fahrzeug. Antippen öffnet die **Fahrzeugliste**. Ist kein Fahrzeug eingerichtet, erscheint das Warnsymbol ![](../bilder/image21.png). Ohne Fahrzeug lässt sich der **Arbeitsbildschirm** nicht öffnen.
 
    ![](../bilder/image22.png)
 
@@ -140,7 +140,7 @@ Auf dem Hauptbildschirm stehen Karten für **Fahrzeug**, **Anbaugerät**, **Aufg
 
 7. **Symbol Datenübertragung:** Öffnet den Datenmanager für den Datenaustausch mit anderen Terminals oder externen Speichern (z. B. USB-Stick).
 
-8. **Symbol Arbeitsbildschirm:** Wenn alles richtig eingerichtet ist, öffnet ein Tippen auf **Arbeitsbildschirm** die Arbeitsansicht.
+8. **Symbol Arbeitsbildschirm:** Öffnet den Arbeitsbildschirm, sobald Fahrzeug, Anbaugerät und Aufgabe eingerichtet sind.
 
 ## 5. Fahrzeugliste
 
@@ -198,20 +198,20 @@ Tippen Sie auf ![](../bilder/image26.png), um ein neues Fahrzeug anzulegen.
 |:--:|----|----|
 | 1 | Winkelsensor | Einbaulage des Winkelsensors: … / Etikett oben / Etikett unten |
 | 2 | Lenkeinheit | Art der Lenkung: Motor / Hydraulikventil / Steer Ready CAN |
-| 3 | Empfindlichkeit Linieneinfahrt | Wie schnell das Fahrzeug auf die Linie einfährt |
-| 4 | Seitliche Empfindlichkeit | Zeitpunkt der Lenkkorrekturen |
-| 5 | Richtungsempfindlichkeit | Ausschlag der Lenkradbewegung |
-| 6 | Geländeausgleich | Wie stark das System bei Gelände- bzw. Hangänderungen ausgleicht |
-| 7 | Lenkverstärkung | Frequenz der Lenkradbewegungen |
+| 3 | Empfindlichkeit Linieneinfahrt | Wie schnell das Fahrzeug auf die Führungslinie einschwenkt |
+| 4 | Seitliche Empfindlichkeit | Wie früh das System bei seitlicher Abweichung gegenlenkt |
+| 5 | Richtungsempfindlichkeit | Wie stark das System bei Richtungsabweichung lenkt |
+| 6 | Geländeausgleich | Wie stark das System Hang und Unebenheiten ausgleicht |
+| 7 | Lenkverstärkung | Wie schnell und oft das Lenkrad nachkorrigiert |
 | 8 | ![](../bilder/image30.svg) | Zurück zu **Maße** |
 | 9 | √ | Fahrzeug aktivieren und Kalibrierung starten |
 | 10 | Speichern | Aktuelle Einstellungen speichern |
 
 > ![Hinweis](../bilder/image34.png)
 >
-> Sie können die Kalibrierung vorerst überspringen und das Fahrzeug trotzdem fertig anlegen. Ein nicht kalibriertes Fahrzeug lässt Vectoris Pro aber nicht für den Arbeitsbildschirm aktivieren.
+> Sie können die Kalibrierung zunächst überspringen und das Fahrzeug trotzdem fertig anlegen. Mit einem nicht kalibrierten Fahrzeug lässt sich der Arbeitsbildschirm aber nicht öffnen.
 >
-> Wenn Sie das Fahrzeug später in der Liste auswählen, werden Sie erneut nach der Kalibrierung gefragt. Aktiviert wird es erst nach abgeschlossener Kalibrierung.
+> Wählen Sie das Fahrzeug später in der Liste aus, fragt das System erneut nach der Kalibrierung. Erst danach wird das Fahrzeug aktiviert.
 
 ## 6. Anbaugeräteliste
 
@@ -254,8 +254,8 @@ Wählen Sie die passende **Anbauart** und geben Sie die gemessenen Werte ein: **
 | Nr. | Feld | Beschreibung |
 |:--:|----|----|
 | 1 | Anbauart | Gezogen / angebaut |
-| 2 | Skizze | Zeigt, wo die Maße genommen werden |
-| 3 | Gerätemaße | A Arbeitsbreite, B Überlappung / Lücke, C Gerätebreite, D Geräteversatz, E Abstand Kupplungspunkt – Arbeitspunkt. Einheit nach gewähltem Maßsystem (Standard m). |
+| 2 | Skizze | Zeigt, wo gemessen wird |
+| 3 | Gerätemaße | A Arbeitsbreite, B Überlappung / Lücke, C Gerätebreite, D Geräteversatz, E Abstand Kupplungspunkt – Arbeitspunkt. Einheit je nach Einstellung, standardmäßig Meter. |
 | 4 | ← | Zurück zu **Anbaugerätedaten** |
 | 5 | → | Weiter zu **Wendeeinstellungen** |
 
@@ -267,17 +267,17 @@ Wählen Sie, wie das Gerät mit dem Fahrzeug verbunden ist: **gezogen / angebaut
 
 ##### 6.1.2.2 Arbeitsbreite
 
-Messen Sie vor dem Einsatz die tatsächliche Arbeitsbreite des Geräts wie im Bild gezeigt: den Abstand zwischen dem äußersten linken und rechten Arbeitspunkt. Messen Sie mehrmals und nehmen Sie den Mittelwert – ungenaue Werte führen zu falschen Spurabständen. Geben Sie dann die gemessene Breite ein.
+Messen Sie vor dem Einsatz die tatsächliche Arbeitsbreite, wie im Bild gezeigt: vom äußersten linken bis zum äußersten rechten Arbeitspunkt des Geräts. Messen Sie mehrmals und nehmen Sie den Mittelwert. Ist der Wert ungenau, stimmt später der Anschluss zwischen den Bahnen nicht. Geben Sie dann die gemessene Breite ein.
 
 ![](../bilder/image40.jpeg)
 
 ##### 6.1.2.3 Spurabstand
 
-- **Definition:** Abstand zwischen zwei benachbarten Arbeitsbahnen.
-- **Linke Anschlussspur:** die Bahn links vom Fahrer.
-- **Rechte Anschlussspur:** die Bahn rechts vom Fahrer.
-- **Überlappung (Overlap):** doppelt bearbeiteter Streifen zwischen zwei Bahnen.
-- **Lücke (Skip):** unbearbeiteter Streifen zwischen zwei Bahnen.
+- **Spurabstand:** Abstand zwischen zwei benachbarten Arbeitsbahnen.
+- **Linker Anschluss:** die Nachbarbahn links vom Fahrer.
+- **Rechter Anschluss:** die Nachbarbahn rechts vom Fahrer.
+- **Überlappung (Overlap):** Streifen, der doppelt bearbeitet wird.
+- **Lücke (Skip):** Streifen, der zwischen zwei Bahnen unbearbeitet bleibt.
 
 ![](../bilder/image41.png)
 
@@ -297,7 +297,7 @@ Der **Geräteversatz** ist der seitliche Abstand zwischen der Mitte des Fahrzeug
 
 ##### 6.1.2.6 Abstand Kupplungspunkt – Arbeitspunkt
 
-Abstand zwischen dem **Kupplungspunkt** von Fahrzeug und Gerät und dem Arbeitspunkt des Geräts.
+Abstand vom **Kupplungspunkt** (dort, wo das Gerät am Fahrzeug angehängt ist) bis zum Arbeitspunkt des Geräts.
 
 ![](../bilder/image48.png)
 
@@ -342,7 +342,7 @@ Es öffnet sich ein Fenster zum Anlegen eines Feldes.
 1. Eindeutigen **Feldnamen** eingeben.
 2. **Betrieb** auswählen. Die Liste wird mit der Plattform abgeglichen; Betriebe können auch in der Handy-App angelegt werden.
 3. ![](../bilder/image53.png) tippen, um das Feld anzulegen. Das neue Feld erscheint in der Liste und ist ausgewählt.
-4. ![](../bilder/image54.png) tippen, um ohne Anlegen abzubrechen.
+4. ![](../bilder/image54.png) tippen, um abzubrechen, ohne ein Feld anzulegen.
 
 ### 7.3 Feld löschen
 
@@ -353,12 +353,12 @@ Wählen Sie das Feld in der Liste aus und tippen Sie auf **Löschen**. Bestätig
 > **Hinweise:**
 >
 > - Mit dem Feld werden auch alle zugehörigen Aufgaben gelöscht.
-> - Sind im Feld noch offene Aufgaben, gehen Sie vorsichtig vor.
+> - Prüfen Sie deshalb vorher, ob im Feld noch offene Aufgaben sind.
 > - Das Feld der aktuellen Aufgabe kann nicht gelöscht werden; **Löschen** ist dann ausgegraut.
 
 ## 8. Arbeitsbildschirm
 
-Sind Sie angemeldet, das Fahrzeug angelegt und kalibriert, das Anbaugerät angelegt und eine Aufgabe erstellt, tippen Sie auf das Symbol **Arbeitsbildschirm**.
+Voraussetzungen: Sie sind angemeldet, das Fahrzeug ist angelegt und kalibriert, das Anbaugerät ist angelegt und eine Aufgabe ist erstellt. Tippen Sie dann auf das Symbol **Arbeitsbildschirm**.
 
 ![](../bilder/image56.png)
 
@@ -366,8 +366,8 @@ Der **Arbeitsbildschirm** öffnet sich.
 
 ![](../bilder/image57.png)
 
-1. **Statusleiste:** zeigt bearbeitete Fläche, gefahrene Strecke, Einsatzzeit und Durchschnittsgeschwindigkeit. Tippen auf die Symbolgruppe oben links öffnet das Aufgaben-Popup; erneutes Tippen oder Tippen irgendwo auf den Bildschirm schließt es.
-2. **Einstellungen:** zeigt Systeminformationen wie Satellitenstatus, SIM-Status, Geräte-ID und Uhrzeit. Tippen auf die Symbolgruppe oben rechts öffnet das Einstellungsfenster; erneutes Tippen schließt es.
+1. **Statusleiste:** zeigt bearbeitete Fläche, gefahrene Strecke, Einsatzzeit und Durchschnittsgeschwindigkeit. Ein Tippen auf die Symbole oben links öffnet ein Fenster mit den Aufgabendaten. Ein weiteres Tippen, egal wo, schließt es wieder.
+2. **Einstellungen:** zeigt Satellitenstatus, SIM-Status, Geräte-ID und Uhrzeit. Ein Tippen auf die Symbole oben rechts öffnet die Einstellungen, ein weiteres Tippen schließt sie.
 3. **Referenzlinie:** neue Führungslinie anlegen.
 4. **Referenzlinie wechseln:** zu einer anderen Führungslinie wechseln.
 5. **Feinverschiebung:** Lage der Führungslinie fein verschieben.
@@ -394,7 +394,7 @@ Der **Feldmanager** öffnet sich.
 
 ![](../bilder/image59.png)
 
-Über das obere Menü sehen Sie die Details des aktuellen Feldes und können sie bearbeiten.
+Im Menü oben sehen Sie alle Daten des aktuellen Feldes und können sie bearbeiten.
 
 - **Referenzlinie:** umbenennen, aktivieren/deaktivieren, löschen, laden, Fahrgassen oder Zufahrtswege festlegen.
 - **Feldgrenze:** **Vorgewende** an der Feldgrenze anlegen.
@@ -427,9 +427,9 @@ Zur Auswahl stehen u. a. **AB-Linie**, **A+-Linie** und **Kurve**.
 
 > ![Hinweis](../bilder/image34.png)
 >
-> Beim Anlegen der AB-Linie darf das Gerät nicht arbeiten (Leerfahrt).
+> Fahren Sie beim Anlegen der AB-Linie ohne zu arbeiten (Gerät ausgehoben bzw. ausgeschaltet).
 >
-> Bei jedem Feldwechsel muss die AB-Linie neu angelegt werden. Wird die Arbeit nicht am selben Tag fertig, laden Sie am nächsten Tag das Feld und arbeiten weiter.
+> In jedem neuen Feld muss eine eigene AB-Linie angelegt werden. Werden Sie an einem Tag nicht fertig, laden Sie am nächsten Tag einfach das Feld und arbeiten weiter.
 
 ### 10.2 A+-Linie
 
@@ -437,7 +437,7 @@ Zur Auswahl stehen u. a. **AB-Linie**, **A+-Linie** und **Kurve**.
 
    ![](../bilder/image68.png)
 
-2. Richtung in Grad eingeben. Beim Wechsel in den A+-Modus übernimmt das System automatisch die aktuelle Fahrtrichtung als Vorgabewert.
+2. Richtung in Grad eingeben. Vorgeschlagen wird automatisch die aktuelle Fahrtrichtung des Fahrzeugs – wenn Sie schon richtig stehen, einfach übernehmen.
 
    ![](../bilder/image69.png)
 
@@ -447,7 +447,7 @@ Zur Auswahl stehen u. a. **AB-Linie**, **A+-Linie** und **Kurve**.
 
 ### 10.3 Kurve
 
-Im Modus **Kurve** zeichnen Sie eine Fahrt mit Kurven und Geraden auf. **Vectoris Pro** nimmt sie als Referenzlinie und legt automatisch parallele Führungslinien im Abstand der Arbeitsbreite links und rechts daneben.
+Im Modus **Kurve** zeichnen Sie eine Fahrt mit Kurven und Geraden auf. **Vectoris Pro** verwendet sie als Referenzlinie und erzeugt links und rechts davon parallele Führungslinien im Abstand der Arbeitsbreite.
 
 1. Symbol **Kurve** antippen.
 
@@ -459,7 +459,7 @@ Im Modus **Kurve** zeichnen Sie eine Fahrt mit Kurven und Geraden auf. **Vectori
    ![](../bilder/image71.png)
 
 4. Das Terminal markiert den Startpunkt auf der Karte und zeigt die gefahrene Spur als gestrichelte Linie.
-   - Für ein gerades Stück **Aufzeichnung pausieren** tippen – die während der Pause gefahrene Strecke wird als Gerade übernommen.
+   - Für ein gerades Stück **Aufzeichnung pausieren** tippen. Das Stück, das Sie während der Pause fahren, wird als Gerade übernommen.
 
      ![](../bilder/image72.png)
 
@@ -471,7 +471,7 @@ Im Modus **Kurve** zeichnen Sie eine Fahrt mit Kurven und Geraden auf. **Vectori
 
 ### 10.4 Kreis
 
-Im Modus **Kreis** bietet **Vectoris Pro** drei Methoden, einen Kreis festzulegen – wählen Sie die, die vor Ort am besten passt.
+Für Kreise (z. B. unter Kreisberegnung) bietet **Vectoris Pro** drei Methoden. Wählen Sie die, die vor Ort am besten passt.
 
 1. Symbol **Kreis** antippen.
 
@@ -481,21 +481,21 @@ Im Modus **Kreis** bietet **Vectoris Pro** drei Methoden, einen Kreis festzulege
 
    ![](../bilder/image75.png)
 
-   - **Durchmesser:** Kreis durch Abfahren eines Durchmessers von mindestens 15 m.
+   - **Durchmesser:** Sie fahren einmal quer durch den Kreis; diese Strecke (mindestens 15 m) ist der Durchmesser.
 
      ![](../bilder/image76.png)
 
-   - **Radius:** Kreis durch Mittelpunkt O und einen Punkt A auf dem Umfang.
+   - **Radius:** Sie setzen den Mittelpunkt O und einen beliebigen Punkt A auf dem Kreisrand.
 
      ![](../bilder/image77.png)
 
-   - **Drei Punkte:** Kreis durch drei Punkte A, B und C auf dem Umfang.
+   - **Drei Punkte:** Sie setzen drei verschiedene Punkte A, B und C auf dem Kreisrand.
 
      ![](../bilder/image78.png)
 
 ### 10.5 AB-Linie (Koordinaten)
 
-Haben Sie die Koordinaten von **A** und **B** schon, können Sie die **AB-Linie** direkt eingeben.
+Kennen Sie die Koordinaten von **A** und **B** schon, können Sie die **AB-Linie** auch direkt eingeben.
 
 1. Symbol **AB-Linie (Koordinaten)** antippen.
 
@@ -541,7 +541,7 @@ Um die Führungslinie fein zu verschieben, tippen Sie rechts im Arbeitsbildschir
 | 2 | Nach links | Linie nach links verschieben |
 | 3 | Hierher | Linie auf die aktuelle Fahrzeugposition legen |
 | 4 | Nach rechts | Linie nach rechts verschieben |
-| 5 | Schrittweite | Verschiebung pro Tippen (in cm) |
+| 5 | Wert | Gewünschte Verschiebung eingeben (in cm) |
 | 6 | Zurücksetzen | Linie auf die ursprüngliche Lage zurücksetzen |
 
 > ![Hinweis](../bilder/image34.png)
@@ -552,17 +552,17 @@ Um die Führungslinie fein zu verschieben, tippen Sie rechts im Arbeitsbildschir
 
 ### 13.1 Statusleiste
 
-Zeigt die Arbeitsdaten in Echtzeit. Tippen Sie während der Arbeit (mit oder ohne Lenkautomatik) auf den Bereich oben links, um ein Fenster zu öffnen. Erneutes Tippen oder Tippen auf eine freie Fläche schließt es.
+Die Statusleiste zeigt laufend die aktuellen Arbeitsdaten. Tippen Sie während der Arbeit (mit oder ohne Lenkautomatik) auf den Bereich oben links, öffnet sich ein Fenster mit Details. Ein weiteres Tippen dort oder auf eine freie Stelle schließt es.
 
 ![](../bilder/image87.png)
 
 | Nr. | Wert | Beschreibung |
 |:--:|----|----|
 | 1 | Aufgabe | Name der aktuellen Aufgabe |
-| 2 | Einsatzzeit | Summe der Zeit mit Lenkautomatik. Pausiert, wenn sie aus ist. Ist die Spuraufzeichnung auf „manuell“ gestellt, zählt auch manuelles Fahren. |
-| 3 | Strecke | Summe der Strecke mit Lenkautomatik. Pausiert, wenn sie aus ist. Ist die Spuraufzeichnung auf „manuell“ gestellt, zählt auch manuelles Fahren. |
-| 4 | Fläche manuell | Von Hand gefahrene, bearbeitete Fläche |
-| 5 | Fläche automatisch | Mit Lenkautomatik bearbeitete Fläche |
+| 2 | Einsatzzeit | Zeit mit eingeschalteter Lenkautomatik; bei ausgeschalteter Lenkautomatik zählt sie nicht weiter. Ist die Spuraufzeichnung auf „manuell“ gestellt, zählt auch die Zeit, die von Hand gelenkt wird. |
+| 3 | Strecke | Strecke mit eingeschalteter Lenkautomatik; bei ausgeschalteter Lenkautomatik zählt sie nicht weiter. Ist die Spuraufzeichnung auf „manuell“ gestellt, zählt auch die von Hand gelenkte Strecke. |
+| 4 | Fläche manuell | Fläche, die von Hand gelenkt bearbeitet wurde |
+| 5 | Fläche automatisch | Fläche, die mit Lenkautomatik bearbeitet wurde |
 | 6 | Aufgabenliste | Öffnet die Aufgabenliste zum Ansehen und Auswählen |
 
 ### 13.2 Einstellungen
@@ -592,11 +592,11 @@ Tippen Sie oben rechts auf einem beliebigen Bildschirm auf den **Statusbereich**
 
    ![](../bilder/image98.png)
 
-3. **Drei-Bahnen-Methode:** Mit dem Traktor dreimal hin und zurück fahren. Am Fahrzeug nach der letzten Bahn feststellen, ob die Abweichung **links** oder **rechts** liegt. Den gemessenen **Spurabstand** eingeben und **Bestätigen** tippen.
+3. **Drei-Bahnen-Methode:** Fahren Sie mit dem Traktor drei Bahnen hin und zurück. Messen Sie danach am Feld den Abstand zur linken und zur rechten Nachbarspur und stellen Sie fest, auf welcher Seite die Abweichung liegt. Geben Sie den gemessenen **Spurabstand** ein und tippen Sie auf **Bestätigen**.
 
 > ![Hinweis](../bilder/image34.png)
 >
-> Vor dem Einstellen müssen die Gerätemaße stimmen. Die Summe der beiden gemessenen Abstände (links und rechts) muss **dem doppelten Soll-Spurabstand** entsprechen.
+> Vorher müssen die Gerätemaße stimmen. Linker und rechter Abstand zusammen müssen **doppelt so groß wie der Soll-Spurabstand** sein.
 >
 > *Beispiel:* links 62 cm, rechts 70 cm, Soll 66 cm: 70 + 62 = 66 × 2 – die Gerätemaße stimmen.
 
@@ -606,11 +606,11 @@ Tippen Sie oben rechts auf einem beliebigen Bildschirm auf den **Statusbereich**
 
 ![](../bilder/image100.png)
 
-- **Empfindlichkeit Linieneinfahrt** – wie schnell auf die Linie korrigiert wird.
-- **Seitliche Empfindlichkeit** – Zeitpunkt der Lenkkorrektur.
-- **Richtungsempfindlichkeit** – Größe der Lenkkorrektur.
-- **Geländeausgleich** – wie stark Gelände- und Hangeinflüsse ausgeglichen werden.
-- **Lenkverstärkung** – Frequenz der Lenkradbewegung.
+- **Empfindlichkeit Linieneinfahrt** – wie schnell das Fahrzeug auf die Führungslinie einschwenkt.
+- **Seitliche Empfindlichkeit** – wie früh das System bei seitlicher Abweichung gegenlenkt.
+- **Richtungsempfindlichkeit** – wie stark das System bei Richtungsabweichung lenkt.
+- **Geländeausgleich** – wie stark Hang und Unebenheiten ausgeglichen werden.
+- **Lenkverstärkung** – wie schnell und oft das Lenkrad nachkorrigiert.
 
 ### 13.5 Versionsverwaltung
 
@@ -621,7 +621,7 @@ Tippen Sie auf dem Hauptbildschirm auf **Versionsverwaltung**.
 Wählen Sie unten rechts die Art des Updates:
 
 - **Lokales Update:** USB-Stick anstecken und die gewünschte Version installieren.
-- **Online-Update:** prüft im Netz auf neue Versionen und bietet Download und Installation an.
+- **Online-Update:** Das System sucht im Internet nach einer neuen Version und bietet sie zum Herunterladen und Installieren an.
 
 ![](../bilder/image102.png)
 
@@ -629,7 +629,7 @@ Wählen Sie unten rechts die Art des Updates:
 
 ![](../bilder/image103.png)
 
-Feldgrenzen, Anbaugeräte, Betriebsmittel, Applikationskarten und Aufgaben können auf der Plattform angelegt und mit den HD-Lenksystemen von Huida, der HD-Agrardrohne und der HD-Ag-App abgeglichen werden – die Daten sind auf allen drei Plattformen gleich.
+Auf der Plattform legen Sie Feldgrenzen, Anbaugeräte, Betriebsmittel, Applikationskarten und Aufgaben an. Sie werden automatisch mit den HD-Lenksystemen, der HD-Agrardrohne und der HD-Ag-App abgeglichen, sodass überall dieselben Daten vorliegen.
 
 - HD-Ag-Plattform: [www.huidaag.com](http://www.huidaag.com)
 - HD-Ag-App:
@@ -643,13 +643,13 @@ Feldgrenzen, Anbaugeräte, Betriebsmittel, Applikationskarten und Aufgaben könn
 | Anzeige | Status | Bedeutung |
 |----|----|----|
 | Positionsstatus | Fixed | Normal (RTK fix) |
-| | Floating | Schwacher oder zu wenig Satellitenempfang |
+| | Floating | Satellitenempfang schwach oder zu wenige Satelliten |
 | | Pseudorange | Keine Korrekturdaten von der Basisstation |
-| | Single Point | Nur Einzelpositionierung ohne Korrektur |
+| | Single Point | Nur GPS ohne Korrekturdaten (ungenau) |
 | | Invalid | Kein Satellitenempfang |
 | WAS (Lenkwinkel) | Not connected | Anschluss des Hauptkabelbaums prüfen |
 | | Connected | Normal |
-| Heading/Lenkwinkel | Uninitialized | Kann nach längerem Stillstand auftreten. Fahrzeug starten und mit mehr als 1,6 km/h vorwärts fahren, dann initialisiert es sich neu. |
+| Heading/Lenkwinkel | Uninitialized | Kann nach längerem Stillstand auftreten. Fahrzeug starten und mit mehr als 1,6 km/h vorwärts fahren – dann initialisiert sich das System neu. |
 
 ## 2. Fehlersuche
 
@@ -665,16 +665,16 @@ Feldgrenzen, Anbaugeräte, Betriebsmittel, Applikationskarten und Aufgaben könn
 
 # VII. Wartung
 
-- Für einen störungsfreien Betrieb und eine lange Lebensdauer das System genau nach den Vorgaben warten.
-- Die Hauptkomponenten nicht eigenmächtig zerlegen oder umbauen. Bei Bedarf umgehend den autorisierten Kundendienst kontaktieren.
-- Das System nur gemäß dieser Anleitung bedienen.
-- Wöchentlich alle Schrauben, Kabelbäume und Stecker prüfen – z. B. die Befestigung von **Steuergerät**, **Winkelsensor** und **Datenkabelsteckern**. Lockere, abgerissene oder beschädigte Teile sofort festziehen bzw. instand setzen.
+- Warten Sie das System wie hier beschrieben, damit es störungsfrei läuft und lange hält.
+- Zerlegen oder verändern Sie die Hauptkomponenten nicht selbst. Wenden Sie sich bei Problemen an Ihren Händler bzw. Kundendienst.
+- Bedienen Sie das System nur so, wie es in dieser Anleitung beschrieben ist.
+- Prüfen Sie wöchentlich alle Schrauben, Kabel und Stecker, z. B. die Befestigung von **Steuergerät** und **Winkelsensor** sowie die **Datenkabelstecker**. Ziehen Sie Lockeres sofort fest und lassen Sie Beschädigtes reparieren.
 
 **Wartung des Lenkmotors:**
 
-- Lenkmotor sauber halten; Staub, Erde und Schmutz nicht über längere Zeit auf dem Motor liegen lassen.
-- Motor im Betrieb nicht mit Tüchern, Staubhüllen o. Ä. abdecken, damit er ausreichend belüftet und gekühlt wird.
-- Vor jeder Saison prüfen, ob die Mechanik leichtgängig ist, die Kupplung rund läuft und das Getriebe frei dreht. Bei Klemmen die Ursache vor dem Einsatz beseitigen.
+- Halten Sie den Lenkmotor sauber. Staub und Erde dürfen sich nicht dauerhaft darauf ansammeln.
+- Decken Sie den Motor im Betrieb nicht mit Tüchern, Hüllen o. Ä. ab, damit er gekühlt wird.
+- Prüfen Sie vor jeder Saison, ob sich die Mechanik leicht bewegt, die Kupplung rund läuft und das Getriebe frei dreht. Klemmt etwas, beheben Sie die Ursache vor dem Einsatz.
 
 # VIII. Kabelplan
 
@@ -684,9 +684,9 @@ Feldgrenzen, Anbaugeräte, Betriebsmittel, Applikationskarten und Aufgaben könn
 
 > **Hinweis:** Dieses Kapitel gibt die Garantieregelung des Herstellers für China („Drei Garantien“: Reparatur, Austausch, Rückgabe) wieder. In Deutschland und Österreich gelten die gesetzlichen Gewährleistungsrechte sowie die Garantiebedingungen Ihres Händlers.
 
-Um die Rechte der Nutzer zu schützen, einen besseren Service zu bieten und die Kundendienstzusagen des Unternehmens sicherzustellen, gelten die folgenden Regeln.
+Die folgenden Regeln sollen die Rechte der Kunden schützen und den Kundendienst des Herstellers verbindlich festlegen.
 
-Jedem Produkt liegt ein Garantieheft („Drei Garantien“: Reparatur, Austausch, Rückgabe) bei, eines pro Maschine. Füllen Sie die **Registrierungskarte** gleich nach dem Kauf aus.
+Jedem System liegt ein Garantieheft bei. Füllen Sie die **Registrierungskarte** gleich nach dem Kauf aus.
 
 Grundlage sind die einschlägigen Gesetze, etwa das *Produktqualitätsgesetz* und das *Verbraucherschutzgesetz der Volksrepublik China*.
 
@@ -711,10 +711,10 @@ Die Garantiezeit für das **komplette System** beträgt **ein (1) Jahr** und umf
 In folgenden Fällen besteht kein Garantieanspruch; eine **kostenpflichtige Reparatur** ist möglich:
 
 a. Vorzeitiger Verschleiß oder Defekt durch **unsachgemäße Nutzung, Wartung oder Pflege**, z. B. Betrieb außerhalb der im Handbuch genannten Bedingungen, Nichtbeachtung der Anleitung oder eigenmächtiges Ändern von Spannungsparametern.  
-b. Defekte durch **eigenmächtige Änderung, Einstellung oder Demontage** von Komponenten, die laut Handbuch verboten ist.  
-c. Fehlender **Garantieschein** und **Kaufbeleg** oder kein Nachweis, dass die Garantiezeit noch läuft.  
-d. Modell oder Ausführung auf **Garantieschein/Rechnung** stimmen nicht mit dem Produkt überein oder wurden verändert.  
-e. Der Originalzustand wurde nach dem Fehler nicht erhalten oder vor der technischen Prüfung **unbefugt eingegriffen**, sodass die Ursache nicht mehr feststellbar ist.  
+b. Defekte, weil Komponenten **eigenmächtig verändert, verstellt oder zerlegt** wurden, obwohl das Handbuch dies verbietet.  
+c. **Garantieschein** und **Kaufbeleg** fehlen, oder es ist nicht nachweisbar, dass die Garantiezeit noch läuft.  
+d. Modell oder Ausführung auf **Garantieschein/Rechnung** passen nicht zum Produkt oder wurden verändert.  
+e. Nach dem Fehler wurde **eigenmächtig am Gerät gearbeitet** oder der Originalzustand nicht erhalten, sodass die Ursache bei der Prüfung nicht mehr feststellbar ist.  
 f. Schäden durch **Fehlbedienung**, z. B. Verlassen der Kabine bei eingeschalteter Lenkautomatik.  
 g. Schäden durch **höhere Gewalt** (z. B. Naturkatastrophen).
 
