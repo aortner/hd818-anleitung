@@ -14,4 +14,4 @@ To print: use **Print → Save as PDF** in your browser.
 ---
 
 Quelltext / Source: [`de/README.md`](de/README.md), [`en/README.md`](en/README.md), Bilder / images in [`bilder/`](bilder/).
-Inhalt / Content © Heilongjiang Huida Technology Co., Ltd. – veröffentlicht mit Erlaubnis von Vector Agr.
+Inhalt / Content © Heilongjiang Huida Technology Co., Ltd.
