@@ -11,6 +11,6 @@ Benutzerhandbuch **HD818 (Vector Agr / Huida, Software Vectoris Pro)** als Markd
 
 - `build.ps1 -Web` – `_site/` für GitHub Pages (Bilder als Dateien); läuft per `.github/workflows/pages.yml` bei jedem Push auf `main`
 
-Online: https://aortner.github.io/hd818-anleitung/ (Repo aortner/hd818-anleitung, öffentlich; Erlaubnis Vector/Huida liegt vor).
+Online: https://aortner.github.io/hd818-anleitung/ (Repo aortner/hd818-anleitung, öffentlich).
 
 Regeln: Jede inhaltliche Änderung in **beiden** Sprachen. `out/` und `_site/` sind nicht versioniert. Öffentlich: keine persönlichen Daten in Bildern (App-Screenshot ist geschwärzt). Push nur nach Rückfrage.
