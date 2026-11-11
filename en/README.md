@@ -92,6 +92,14 @@ Long press the power button on the display terminal for 3 seconds to turn on the
 
 ## 3. Account Login
 
+To register the terminal to your name:
+
+1. Create an account at [www.huidaag.com/login](https://www.huidaag.com/login?redirect=/farm).
+2. Install the **HD Ag** app on your phone and log in.
+3. On the terminal, tap the **Login Card**. In the app, tap **Me** at the bottom and the scan icon in the top right, then scan the QR code on the terminal. The terminal is now registered to your name.
+
+   ![](../bilder/app-hdag-qr-scan.jpg)
+
 Log in to your account to use **Vectoris Pro**. The system manages operator information and production data through individual user accounts and provides platform-level data services.
 
 When not logged in, all production-related cards on the main screen are displayed in gray. Tap the **Login Card** in the upper-left corner of the main screen to access your account.

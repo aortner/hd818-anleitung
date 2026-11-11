@@ -96,7 +96,9 @@ So melden Sie das Terminal auf Ihren Namen an:
 
 1. Unter [www.huidaag.com/login](https://www.huidaag.com/login?redirect=/farm) ein Konto anlegen.
 2. Am Handy die App **HD Ag** installieren und dort einloggen.
-3. Am Terminal auf die **Anmeldekarte** tippen und den QR-Code mit der App scannen. Danach läuft das Terminal auf Ihren Namen.
+3. Am Terminal auf die **Anmeldekarte** tippen. In der App unten auf **Mein** und oben rechts auf das Scan-Symbol tippen, dann den QR-Code am Terminal scannen. Danach läuft das Terminal auf Ihren Namen.
+
+   ![](../bilder/app-hdag-qr-scan.jpg)
 
 Das System verwaltet Bediener- und Produktionsdaten über persönliche Benutzerkonten und stellt Daten über die Plattform bereit.
 
