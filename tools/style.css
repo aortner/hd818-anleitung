@@ -22,6 +22,21 @@ nav#TOC { border: 1px solid var(--line); padding: .5em 1em; border-radius: 6px; 
 nav#TOC ul { list-style: none; padding-left: 1em; }
 nav#TOC > ul { padding-left: 0; }
 .lang { float: right; font-size: .9em; }
+nav#TOC a { text-decoration: none; display: block; padding: .15em .5em; border-radius: 4px; border-left: 3px solid transparent; }
+nav#TOC a:hover { background: var(--note); }
+nav#TOC a.active { background: var(--note); border-left-color: var(--accent); font-weight: 600; }
+h1, h2, h3, h4 { scroll-margin-top: 16px; }
+
+/* Wide screens: table of contents as fixed sidebar on the left */
+@media screen and (min-width: 1100px) {
+  body { max-width: none; margin: 0; padding: 16px 32px 16px 332px; }
+  body > :not(nav) { max-width: 900px; }
+  .lang { position: fixed; top: 12px; right: 24px; z-index: 2; background: var(--bg); padding: 0 .4em; }
+  nav#TOC { position: fixed; top: 0; left: 0; bottom: 0; width: 300px; box-sizing: border-box; overflow-y: auto;
+            margin: 0; border: 0; border-right: 1px solid var(--line); border-radius: 0; padding: 16px 12px;
+            background: var(--bg); font-size: .92em; }
+  nav#TOC h2 { margin-top: 0; font-size: 1.1em; }
+}
 @media print {
   :root { --text:#000; --bg:#fff; --line:#999; --note:#f3f3f3; }
   body { max-width: none; font-size: 11pt; padding: 0; }

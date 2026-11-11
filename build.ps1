@@ -33,7 +33,7 @@ if ($Web) {
       --from gfm+yaml_metadata_block --to html5 --standalone `
       --toc --toc-depth=2 --metadata toc-title=$($l.toc) `
       --css ../style.css `
-      --include-before-body $switch `
+      --include-before-body $switch --include-after-body (Join-Path $root 'tools/toc.html') `
       -o (Join-Path $dir 'index.html')
     Remove-Item $switch
     Write-Host "WEB:  $dir/index.html"
@@ -54,7 +54,7 @@ foreach ($lang in $langs.Keys) {
     --resource-path (Join-Path $root $lang) `
     --toc --toc-depth=2 --metadata toc-title=$($l.toc) `
     --css (Join-Path $root 'tools\style.css') `
-    --include-before-body $switch `
+    --include-before-body $switch --include-after-body (Join-Path $root 'tools/toc.html') `
     -o $html
   Remove-Item $switch
   Write-Host "HTML: $html"
