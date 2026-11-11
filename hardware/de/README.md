@@ -178,9 +178,11 @@ Der Winkelsensor wird mit seiner Halterung an einem Bolzen befestigt, der sich *
 > - Das Kabel nicht zu lang und nicht zu kurz lassen – bei vollem Lenkeinschlag darf es nicht spannen.
 > - Prüfen, dass der Sensor im ganzen Lenk- und Federweg **nirgends anstößt**.
 
-# 7. Kamera
+# 7. Kamera (optional)
 
-Die Kamera hinten am Kabinendach befestigen und so ausrichten, dass der Arbeitsbereich hinter dem Traktor vollständig zu sehen ist. Am Terminal lässt sich das Kamerabild ein- und ausschalten.
+Die Kamera ist **für das Lenksystem nicht nötig**. Sie dient nur dem Fahrer zur Überwachung, z. B. des Anbaugeräts hinter dem Traktor.
+
+Wenn Sie sie einbauen: Die Kamera hinten am Kabinendach befestigen und so ausrichten, dass der Arbeitsbereich hinter dem Traktor vollständig zu sehen ist. Am Terminal lässt sich das Kamerabild ein- und ausschalten.
 
 ![](../../bilder/hw/kamera-dach.jpg) ![](../../bilder/hw/kamera-schalter.jpg)
 

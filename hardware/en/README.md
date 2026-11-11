@@ -178,9 +178,11 @@ The angle sensor is fastened with its bracket to a bolt that **turns with the fr
 > - Leave the cable neither too long nor too short – it must not be stretched at full steering lock.
 > - Check that the sensor **does not hit anything** through the full steering and suspension travel.
 
-# 7. Camera
+# 7. Camera (optional)
 
-Mount the camera at the rear of the cab roof and aim it so the working area behind the tractor is fully visible. The camera image can be switched on and off on the terminal.
+The camera is **not required for the steering system**. It only helps the driver keep an eye on things, e.g. the implement behind the tractor.
+
+If you install it: mount the camera at the rear of the cab roof and aim it so the working area behind the tractor is fully visible. The camera image can be switched on and off on the terminal.
 
 ![](../../bilder/hw/kamera-dach.jpg) ![](../../bilder/hw/kamera-schalter.jpg)
 
