@@ -2,6 +2,8 @@
 
 Benutzerhandbuch **HD818 (Vector Agr / Huida, Software Vectoris Pro)** als Markdown, Deutsch + Englisch.
 
+- `hardware/de/README.md`, `hardware/en/README.md` – **Montageanleitung** (aus `hd818_install_eng.pptx`, Folien 1–17; DE-Texte aus `hd818_hardware_install_deu.pdf`), Bilder in `bilder/hw/`, eigenes CSS `tools/style-hw.css`
+- `tools/index.html` – Startseite mit beiden Anleitungen
 - `en/README.md` – Englisch, Grundlage ist `Anleitung_818_eng.docx` (G:\Meine Ablage\AgOpenGps\Infos der Hersteller\VETOR AGR\Anleitung\Software)
 - `de/README.md` – Deutsch; gleiche Kapitelstruktur wie EN
 - `bilder/` – gemeinsame Bilder (Namen `imageNN` = Reihenfolge in der docx)

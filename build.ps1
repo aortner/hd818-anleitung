@@ -1,72 +1,72 @@
-# Builds the manual.
-#   default : out/anleitung-de.html, out/anleitung-en.html (images embedded, offline)
-#   -Pdf    : additionally prints both pages to PDF with headless Chrome
-#   -Web    : _site/ for GitHub Pages (images as files, index.html redirects to de/)
+# Builds both manuals (user manual + installation manual) in DE and EN.
+#   default : out/   – same folder layout as the website, images embedded (works offline)
+#   -Pdf    : additionally prints every page to out/*.pdf with headless Chrome
+#   -Web    : _site/ for GitHub Pages (images as files)
 param([switch]$Pdf, [switch]$Web)
 
 $ErrorActionPreference = 'Stop'
 $root = $PSScriptRoot
-$langs = [ordered]@{
+$dest = if ($Web) { Join-Path $root '_site' } else { Join-Path $root 'out' }
+
+# path = source folder and site folder; up = "../" count back to the site root
+$docs = @(
+  @{ id = 'anleitung'; path = '';          up = '../';    other = 'hardware/'; label = @{ de = 'Montageanleitung'; en = 'Installation manual' } }
+  @{ id = 'montage';   path = 'hardware/'; up = '../../'; other = '';          label = @{ de = 'Benutzeranleitung'; en = 'User manual' } }
+)
+$langs = @{
   de = @{ toc = 'Inhalt';   other = 'en'; otherLabel = 'English' }
   en = @{ toc = 'Contents'; other = 'de'; otherLabel = 'Deutsch' }
 }
 
+if (Test-Path $dest) { Get-ChildItem $dest -Exclude *.pdf | Remove-Item -Recurse -Force }
+New-Item -ItemType Directory -Force $dest | Out-Null
 if ($Web) {
-  $site = Join-Path $root '_site'
-  if (Test-Path $site) { Remove-Item -Recurse -Force $site }
-  New-Item -ItemType Directory -Force $site | Out-Null
-  Copy-Item -Recurse (Join-Path $root 'bilder') (Join-Path $site 'bilder')
-  Copy-Item (Join-Path $root 'tools/style.css') (Join-Path $site 'style.css')
-  Set-Content -Encoding utf8 (Join-Path $site '.nojekyll') ''
-  Set-Content -Encoding utf8 (Join-Path $site 'index.html') @'
-<!doctype html><html lang="de"><head><meta charset="utf-8">
-<meta http-equiv="refresh" content="0; url=de/"><title>HD818 Anleitung</title></head>
-<body><a href="de/">Deutsch</a> · <a href="en/">English</a></body></html>
-'@
-  foreach ($lang in $langs.Keys) {
-    $l = $langs[$lang]
-    $dir = Join-Path $site $lang
-    New-Item -ItemType Directory -Force $dir | Out-Null
-    $switch = Join-Path $site "lang-$lang.html"
-    Set-Content -Encoding utf8 $switch "<div class=`"lang`"><a href=`"../$($l.other)/`">$($l.otherLabel)</a></div>"
-    pandoc (Join-Path $root "$lang/README.md") `
-      --from gfm+yaml_metadata_block --to html5 --standalone `
-      --toc --toc-depth=2 --metadata toc-title=$($l.toc) `
-      --css ../style.css `
-      --include-before-body $switch --include-after-body (Join-Path $root 'tools/toc.html') `
-      -o (Join-Path $dir 'index.html')
-    Remove-Item $switch
-    Write-Host "WEB:  $dir/index.html"
-  }
-  return
+  Copy-Item -Recurse (Join-Path $root 'bilder') (Join-Path $dest 'bilder')
+  Copy-Item (Join-Path $root 'tools/style.css') (Join-Path $dest 'style.css')
+  Copy-Item (Join-Path $root 'tools/style-hw.css') (Join-Path $dest 'style-hw.css')
+  Set-Content -Encoding utf8 (Join-Path $dest '.nojekyll') ''
+}
+Copy-Item (Join-Path $root 'tools/index.html') (Join-Path $dest 'index.html')
+
+$chrome = $null
+if ($Pdf) {
+  $chrome = @("$env:ProgramFiles\Google\Chrome\Application\chrome.exe",
+              "${env:ProgramFiles(x86)}\Google\Chrome\Application\chrome.exe",
+              "$env:LOCALAPPDATA\Google\Chrome\Application\chrome.exe") | Where-Object { Test-Path $_ } | Select-Object -First 1
+  if (-not $chrome) { throw 'Chrome not found' }
 }
 
-$out = Join-Path $root 'out'
-New-Item -ItemType Directory -Force $out | Out-Null
+foreach ($d in $docs) {
+  foreach ($lang in 'de', 'en') {
+    $l = $langs[$lang]
+    $src = Join-Path $root "$($d.path)$lang"
+    $dir = Join-Path $dest "$($d.path)$lang"
+    New-Item -ItemType Directory -Force $dir | Out-Null
 
-foreach ($lang in $langs.Keys) {
-  $l = $langs[$lang]
-  $switch = Join-Path $out "lang-$lang.html"
-  Set-Content -Encoding utf8 $switch "<div class=`"lang`"><a href=`"anleitung-$($l.other).html`">$($l.otherLabel)</a></div>"
-  $html = Join-Path $out "anleitung-$lang.html"
-  pandoc (Join-Path $root "$lang\README.md") `
-    --from gfm+yaml_metadata_block --to html5 --standalone --embed-resources `
-    --resource-path (Join-Path $root $lang) `
-    --toc --toc-depth=2 --metadata toc-title=$($l.toc) `
-    --css (Join-Path $root 'tools\style.css') `
-    --include-before-body $switch --include-after-body (Join-Path $root 'tools/toc.html') `
-    -o $html
-  Remove-Item $switch
-  Write-Host "HTML: $html"
+    # top-right links: other language + the other manual
+    $otherDoc = "$($d.up)$($d.other)$lang/"
+    $switch = Join-Path $dest "switch-$($d.id)-$lang.html"
+    Set-Content -Encoding utf8 $switch ("<div class=`"lang`"><a href=`"../$($l.other)/`">$($l.otherLabel)</a> · " +
+      "<a href=`"$otherDoc`">$($d.label[$lang])</a></div>")
 
-  if ($Pdf) {
-    $chrome = @("$env:ProgramFiles\Google\Chrome\Application\chrome.exe",
-                "${env:ProgramFiles(x86)}\Google\Chrome\Application\chrome.exe",
-                "$env:LOCALAPPDATA\Google\Chrome\Application\chrome.exe") | Where-Object { Test-Path $_ } | Select-Object -First 1
-    if (-not $chrome) { throw 'Chrome not found' }
-    $pdfFile = Join-Path $out "anleitung-$lang.pdf"
-    $uri = ([System.Uri]$html).AbsoluteUri
-    & $chrome --headless=new --disable-gpu --no-pdf-header-footer --print-to-pdf="$pdfFile" $uri 2>$null | Out-Null
-    Write-Host "PDF:  $pdfFile"
+    $args = @((Join-Path $src 'README.md'),
+      '--from', 'gfm+yaml_metadata_block', '--to', 'html5', '--standalone',
+      '--toc', '--toc-depth=2', '--metadata', "toc-title=$($l.toc)",
+      '--include-before-body', $switch,
+      '--include-after-body', (Join-Path $root 'tools/toc.html'),
+      '-o', (Join-Path $dir 'index.html'))
+    if ($Web) { $args += @('--css', "$($d.up)style.css"); if ($d.id -eq 'montage') { $args += @('--css', "$($d.up)style-hw.css") } }
+    else      { $args += @('--embed-resources', '--resource-path', $src, '--css', (Join-Path $root 'tools/style.css'))
+                if ($d.id -eq 'montage') { $args += @('--css', (Join-Path $root 'tools/style-hw.css')) } }
+    pandoc @args
+    Remove-Item $switch
+    Write-Host "HTML: $dir/index.html"
+
+    if ($Pdf) {
+      $pdfFile = Join-Path $dest "$($d.id)-$lang.pdf"
+      $uri = ([System.Uri](Join-Path $dir 'index.html')).AbsoluteUri
+      & $chrome --headless=new --disable-gpu --no-pdf-header-footer --print-to-pdf="$pdfFile" $uri 2>$null | Out-Null
+      Write-Host "PDF:  $pdfFile"
+    }
   }
 }

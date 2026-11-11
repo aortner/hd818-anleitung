@@ -1,0 +1,6 @@
+/* Installation manual: photos instead of inline icons */
+img { max-height: 460px; width: auto; }
+li img, p img:not(:only-child) { max-height: 340px; max-width: 48%; vertical-align: top; margin: .3em .5%; }
+td img { max-height: 240px; }
+blockquote img { max-height: 28px; }
+@media print { img { max-height: 320px; } }
