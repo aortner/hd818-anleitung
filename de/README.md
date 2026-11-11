@@ -694,8 +694,7 @@ Die Garantiezeit beginnt mit dem Rechnungsdatum. Reparaturzeiten und Wartezeiten
 
 a. Wird innerhalb von **fünf (5) Tagen** nach dem Kauf ein Qualitätsmangel festgestellt, kann der Käufer **Rückerstattung oder Austausch** wählen.  
 b. Bei einem Austauschgerät beginnt die Garantiezeit mit dem Austauschdatum neu.  
-c. Funktioniert das Produkt nach **zwei Reparaturen** innerhalb der Garantiezeit immer noch nicht, werden die defekten **Systemkomponenten** durch neue ersetzt.  
-d. In der **Hauptsaison** werden Störungen im Servicegebiet behoben: einfache Fehler innerhalb von **2 Tagen**, komplexe Fehler innerhalb von **5 Tagen**.
+c. Funktioniert das Produkt nach **zwei Reparaturen** innerhalb der Garantiezeit immer noch nicht, werden die defekten **Systemkomponenten** durch neue ersetzt.
 
 Für eine Garantieleistung bringen Sie dieses Heft und die Rechnung zu einer autorisierten Servicestelle und füllen das **Reparaturprotokoll** aus.
 

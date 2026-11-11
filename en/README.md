@@ -694,8 +694,7 @@ The validity period of the Three Guarantees starts on the invoice date. Time nee
 
 a. If a quality issue is confirmed within **five (5) days** of purchase, the consumer may choose a **refund or replacement**.  
 b. For a replaced product, the Three Guarantees period starts again on the replacement date.  
-c. If the product still does not work properly after **two repairs** within the validity period, the company replaces the faulty **system components** with new ones.  
-d. During the **busy farming season**, for failures within the service area: simple faults are fixed within **2 days**, complex faults within **5 days**.
+c. If the product still does not work properly after **two repairs** within the validity period, the company replaces the faulty **system components** with new ones.
 
 To receive the Three Guarantees Service, users must bring this manual and the purchase invoice to an authorized service point and complete the **Three Guarantees Repair Service Record Form**.
 
