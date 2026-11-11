@@ -9,4 +9,8 @@ Benutzerhandbuch **HD818 (Vector Agr / Huida, Software Vectoris Pro)** als Markd
 - `build.ps1` – pandoc → `out/anleitung-de.html` / `-en.html` (Bilder eingebettet); `-Pdf` druckt zusätzlich per Chrome headless zu PDF
 - `tools/clean.lua` – pandoc-Filter für die Erstkonvertierung aus Word (nur bei Neuimport nötig)
 
-Regeln: Jede inhaltliche Änderung in **beiden** Sprachen. `out/` ist nicht versioniert. Lokales Git, kein Remote.
+- `build.ps1 -Web` – `_site/` für GitHub Pages (Bilder als Dateien); läuft per `.github/workflows/pages.yml` bei jedem Push auf `main`
+
+Online: https://aortner.github.io/hd818-anleitung/ (Repo aortner/hd818-anleitung, öffentlich; Erlaubnis Vector/Huida liegt vor).
+
+Regeln: Jede inhaltliche Änderung in **beiden** Sprachen. `out/` und `_site/` sind nicht versioniert. Öffentlich: keine persönlichen Daten in Bildern (App-Screenshot ist geschwärzt). Push nur nach Rückfrage.
